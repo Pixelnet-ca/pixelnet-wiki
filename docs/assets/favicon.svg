@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Icône d'application moderne aux coins arrondis contenant une croix directionnelle et deux boutons en pixels" viewBox="0 0 50 50">
+<rect x="0" y="0" width="50" height="50" rx="11.5" fill="#d52b1e"></rect>
+<g transform="translate(7 15) scale(2.6)" shape-rendering="crispEdges">
+<path fill="#ffffff" d="M2 0h3v2h-3zM0 2h7v3h-7zM2 5h3v2h-3z"></path>
+<path fill="#d52b1e" d="M3 3h1v1h-1z"></path>
+</g>
+<g shape-rendering="crispEdges" fill="#ffffff">
+<path d="M33 22h5.2v5.2h-5.2z"></path>
+<path d="M39.5 16h5.2v5.2h-5.2z"></path>
+</g>
+<path fill="#ffffff" opacity="0.55" d="M19 38h5a1 1 0 0 1 0 2h-5a1 1 0 0 1 0-2zM27 38h5a1 1 0 0 1 0 2h-5a1 1 0 0 1 0-2z"></path>
+</svg>

@@ -1,0 +1,24 @@
+/* Couleurs PixelNet */
+:root, [data-md-color-scheme="slate"] {
+  --pn-navy: #0B1220;
+  --pn-navy-light: #1A2A48;
+  --pn-red: #D52B1E;
+  --pn-red-bright: #FF4A3D;
+  --pn-grey: #A7B1C4;
+  --pn-white: #F8FAFC;
+
+  --md-primary-fg-color: var(--pn-navy);
+  --md-primary-bg-color: var(--pn-white);
+  --md-accent-fg-color: var(--pn-red-bright);
+  --md-default-bg-color: var(--pn-navy);
+  --md-default-fg-color--light: var(--pn-grey);
+  --md-typeset-a-color: var(--pn-red-bright);
+  --md-footer-bg-color: var(--pn-red);
+  --md-footer-bg-color--dark: #b02218;
+}
+.md-header, .md-tabs { background-color: var(--pn-navy); border-bottom: 1px solid var(--pn-navy-light); }
+.md-header__title, .md-typeset h1, .md-typeset h2 { font-weight: 800; }
+.md-typeset h1 { color: var(--pn-white); }
+.md-typeset .md-button--primary { background: var(--pn-red); border-color: var(--pn-red); color: #fff; }
+.md-typeset .md-button--primary:hover { background: var(--pn-red-bright); border-color: var(--pn-red-bright); }
+.md-typeset img.pn-photo { border-radius: 10px; max-width: 420px; width: 100%; }

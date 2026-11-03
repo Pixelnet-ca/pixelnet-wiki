@@ -1,0 +1,78 @@
+site_name: PixelNet Wiki
+site_url: https://wiki.pixelnet.ca/
+site_description: Guides, mods et réparation de consoles rétro — PixelNet, Trois-Rivières
+copyright: © PixelNet · <a href="https://pixelnet.ca">pixelnet.ca</a>
+
+theme:
+  name: material
+  logo: assets/logo.svg
+  favicon: assets/favicon.svg
+  palette:
+    scheme: slate
+    primary: custom
+    accent: custom
+  font:
+    text: IBM Plex Sans
+    code: IBM Plex Mono
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - navigation.indexes
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+
+extra_css:
+  - stylesheets/extra.css
+
+extra:
+  social:
+    - icon: material/store
+      link: https://pixelnet.ca
+      name: Boutique PixelNet
+    - icon: material/email
+      link: mailto:support@pixelnet.ca
+      name: support@pixelnet.ca
+
+plugins:
+  - search
+  - i18n:
+      docs_structure: suffix
+      languages:
+        - locale: en
+          default: true
+          name: English
+          build: true
+        - locale: fr
+          name: Français
+          build: true
+          nav_translations:
+            Home: Accueil
+            Guides: Guides
+            Consoles: Consoles
+            Which scaler?: Quel scaler ?
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+
+nav:
+  - Home: index.md
+  - Guides:
+      - guides/index.md
+      - Which scaler?: guides/scalers.md
+  - Consoles:
+      - consoles/index.md
+      - Nintendo: consoles/nintendo.md
+      - Sega: consoles/sega.md
+      - Sony: consoles/sony.md
+      - Atari: consoles/atari.md
