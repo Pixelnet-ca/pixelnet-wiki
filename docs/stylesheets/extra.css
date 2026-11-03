@@ -96,3 +96,22 @@ body {
 .md-typeset .md-button { font-family: "Sora", sans-serif; }
 .pn-hero .pn-kick, .md-header__button.md-logo::after { font-family: "IBM Plex Mono", monospace; }
 .pn-pixel { font-family: "Press Start 2P", monospace; }
+
+/* Bouton Boutique dans l'en-tête : clairement à part du wiki */
+.pn-store {
+  display: inline-flex; align-items: center; gap: .35rem;
+  margin: 0 .6rem 0 .2rem; padding: .3rem .7rem;
+  border: 1.5px solid var(--pn-red); border-radius: 999px;
+  color: var(--pn-white); font-family: "Sora", sans-serif; font-weight: 600; font-size: .62rem;
+  white-space: nowrap; transition: background .15s;
+}
+.pn-store svg { width: .9rem; height: .9rem; fill: currentColor; }
+.pn-store small { opacity: .7; font-size: .6rem; }
+.pn-store:hover { background: var(--pn-red); color: #fff; }
+@media screen and (max-width: 44.9844em) { .pn-store span { display: none; } .pn-store { padding: .3rem .45rem; } }
+@media screen and (max-width: 44.9844em) {
+  .md-header__button.md-logo img { height: 1.15rem; }
+  .md-header__button.md-logo::after { display: none; }
+  .md-header__title .md-header__topic:first-child { visibility: hidden; }
+  .pn-store { margin: 0 .2rem; }
+}

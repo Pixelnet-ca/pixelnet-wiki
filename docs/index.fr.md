@@ -11,7 +11,6 @@ hide:
 
 [:material-book-open-variant: Guides](guides/index.md){ .md-button .md-button--primary }
 [:material-gamepad-variant: Consoles](consoles/index.md){ .md-button }
-[:material-store: Boutique PixelNet](https://pixelnet.ca/fr){ .md-button }
 </div>
 
 !!! tip "Besoin d'un coup de main ?"
