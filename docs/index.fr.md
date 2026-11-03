@@ -11,6 +11,7 @@ hide:
 
 [:material-book-open-variant: Guides](guides/index.md){ .md-button .md-button--primary }
 [:material-gamepad-variant: Consoles](consoles/index.md){ .md-button }
+[:material-alphabetical-variant: Lexique](glossary.md){ .md-button }
 </div>
 
 !!! tip "Besoin d'un coup de main ?"

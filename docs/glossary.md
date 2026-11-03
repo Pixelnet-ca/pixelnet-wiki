@@ -38,7 +38,7 @@ The best-quality video signal a retro console can output: red, green and blue ke
 A step above composite: brightness and colour travel on separate wires. A noticeably clearer picture.
 
 ### Scaler
-A device that sits between the console and the TV. It converts the analog signal into clean, sharp HDMI with almost no lag. Examples: RetroTINK, OSSC. See the guide [Which scaler should you use?](scalers.md)
+A device that sits between the console and the TV. It converts the analog signal into clean, sharp HDMI with almost no lag. Examples: RetroTINK, OSSC. See the guide [Which scaler should you use?](guides/scalers.md)
 
 ### SCART
 The large rectangular European connector. It carries RGB, and it's the most common format for quality RGB cables.

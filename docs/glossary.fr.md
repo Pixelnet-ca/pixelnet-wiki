@@ -41,7 +41,7 @@ Le signal vidéo de meilleure qualité qu'une console rétro peut sortir : rouge
 Un cran au-dessus du composite : la luminosité et la couleur passent dans des fils séparés. Image nettement plus claire.
 
 ### Scaler
-Appareil qu'on branche entre la console et la télé. Il convertit le signal analogique en HDMI propre, net et presque sans délai. Exemples : RetroTINK, OSSC. Voir le guide [Quel scaler choisir ?](scalers.md)
+Appareil qu'on branche entre la console et la télé. Il convertit le signal analogique en HDMI propre, net et presque sans délai. Exemples : RetroTINK, OSSC. Voir le guide [Quel scaler choisir ?](guides/scalers.md)
 
 ## Entretien et réparation
 

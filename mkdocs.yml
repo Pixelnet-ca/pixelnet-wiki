@@ -73,10 +73,10 @@ nav:
   - Guides:
       - guides/index.md
       - Which scaler?: guides/scalers.md
-      - Glossary: guides/glossary.md
   - Consoles:
       - consoles/index.md
       - Nintendo: consoles/nintendo.md
       - Sega: consoles/sega.md
       - Sony: consoles/sony.md
       - Atari: consoles/atari.md
+  - Glossary: glossary.md
