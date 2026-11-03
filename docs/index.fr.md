@@ -5,8 +5,8 @@ hide:
 ---
 
 <div class="pn-hero" markdown>
-<div class="pn-kick">▶ PIXELNET · WIKI</div>
-<h1>Tes classiques, <span>version 2.0</span></h1>
+<div class="pn-kick">▶ GUIDES · RÉFÉRENCES</div>
+<h1>Wiki <span>PixelNet</span></h1>
 <p>Guides, astuces et références pour les consoles rétro : mods, qualité d'image, entretien et réparation.</p>
 
 [:material-book-open-variant: Guides](guides/index.md){ .md-button .md-button--primary }
