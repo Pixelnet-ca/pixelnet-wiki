@@ -1,0 +1,20 @@
+{#- PixelNet : sélecteur de langue avec texte visible -#}
+{%- set pn_fr = (i18n_page_locale is defined and i18n_page_locale == "fr") -%}
+<div class="md-header__option">
+  <div class="md-select">
+    <button class="md-header__button pn-lang" aria-label="{{ lang.t('select.language') }}">
+      {% include ".icons/material/translate.svg" %}<span>{{ 'Langue · Language' if pn_fr else 'Language · Langue' }}</span><small>▾</small>
+    </button>
+    <div class="md-select__inner">
+      <ul class="md-select__list">
+        {% for alt in config.extra.alternate %}
+          <li class="md-select__item">
+            <a href="{{ alt.link | url }}" hreflang="{{ alt.lang }}" class="md-select__link">
+              {{ alt.name }}
+            </a>
+          </li>
+        {% endfor %}
+      </ul>
+    </div>
+  </div>
+</div>

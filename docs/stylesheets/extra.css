@@ -115,3 +115,15 @@ body {
   .md-header__title .md-header__topic:first-child { visibility: hidden; }
   .pn-store { margin: 0 .2rem; }
 }
+
+/* Sélecteur de langue avec texte */
+.md-header__button.pn-lang {
+  display: inline-flex; align-items: center; gap: .35rem; margin: 0 .2rem;
+  padding: .3rem .6rem; border: 1.5px solid var(--pn-navy-light); border-radius: 999px;
+  color: var(--pn-white); font-family: "IBM Plex Mono", monospace; font-size: .58rem; letter-spacing: .04em;
+  white-space: nowrap; cursor: pointer; background: transparent;
+}
+.md-header__button.pn-lang svg { width: .85rem; height: .85rem; fill: currentColor; }
+.md-header__button.pn-lang small { opacity: .7; }
+.md-header__button.pn-lang:hover { border-color: var(--pn-grey); }
+@media screen and (max-width: 44.9844em) { .md-header__button.pn-lang span { display: none; } .md-header__button.pn-lang { padding: .3rem .45rem; } }
