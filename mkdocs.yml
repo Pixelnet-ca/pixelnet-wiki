@@ -51,6 +51,7 @@ plugins:
             Guides: Guides
             Consoles: Consoles
             Which scaler?: Quel scaler ?
+            Glossary: Lexique
 
 markdown_extensions:
   - admonition
@@ -72,6 +73,7 @@ nav:
   - Guides:
       - guides/index.md
       - Which scaler?: guides/scalers.md
+      - Glossary: guides/glossary.md
   - Consoles:
       - consoles/index.md
       - Nintendo: consoles/nintendo.md
