@@ -1,24 +1,98 @@
-/* Couleurs PixelNet */
+/* ===== PixelNet — thème du wiki ===== */
+/* Polices de la marque, hébergées avec le wiki */
+@font-face{font-family:"IBM Plex Sans";font-weight:400;font-style:normal;font-display:swap;src:url("../assets/fonts/ibm-plex-sans-latin-400-normal.woff2") format("woff2")}
+@font-face{font-family:"IBM Plex Sans";font-weight:500;font-style:normal;font-display:swap;src:url("../assets/fonts/ibm-plex-sans-latin-500-normal.woff2") format("woff2")}
+@font-face{font-family:"IBM Plex Sans";font-weight:600;font-style:normal;font-display:swap;src:url("../assets/fonts/ibm-plex-sans-latin-600-normal.woff2") format("woff2")}
+@font-face{font-family:"IBM Plex Mono";font-weight:500;font-style:normal;font-display:swap;src:url("../assets/fonts/ibm-plex-mono-latin-500-normal.woff2") format("woff2")}
+@font-face{font-family:"Sora";font-weight:600;font-style:normal;font-display:swap;src:url("../assets/fonts/sora-latin-600-normal.woff2") format("woff2")}
+@font-face{font-family:"Sora";font-weight:800;font-style:normal;font-display:swap;src:url("../assets/fonts/sora-latin-800-normal.woff2") format("woff2")}
+@font-face{font-family:"Press Start 2P";font-weight:400;font-style:normal;font-display:swap;src:url("../assets/fonts/press-start-2p-latin-400-normal.woff2") format("woff2")}
+
 :root, [data-md-color-scheme="slate"] {
   --pn-navy: #0B1220;
+  --pn-navy-2: #111A2D;
   --pn-navy-light: #1A2A48;
   --pn-red: #D52B1E;
   --pn-red-bright: #FF4A3D;
   --pn-grey: #A7B1C4;
   --pn-white: #F8FAFC;
 
+  --md-text-font: "IBM Plex Sans";
+  --md-code-font: "IBM Plex Mono";
   --md-primary-fg-color: var(--pn-navy);
   --md-primary-bg-color: var(--pn-white);
   --md-accent-fg-color: var(--pn-red-bright);
   --md-default-bg-color: var(--pn-navy);
   --md-default-fg-color--light: var(--pn-grey);
   --md-typeset-a-color: var(--pn-red-bright);
+  --md-code-bg-color: var(--pn-navy-2);
   --md-footer-bg-color: var(--pn-red);
   --md-footer-bg-color--dark: #b02218;
 }
-.md-header, .md-tabs { background-color: var(--pn-navy); border-bottom: 1px solid var(--pn-navy-light); }
-.md-header__title, .md-typeset h1, .md-typeset h2 { font-weight: 800; }
-.md-typeset h1 { color: var(--pn-white); }
+
+/* Fond quadrillé discret, comme sur les visuels PixelNet */
+body {
+  background-color: var(--pn-navy);
+  background-image:
+    linear-gradient(rgba(167,177,196,.045) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(167,177,196,.045) 1px, transparent 1px);
+  background-size: 16px 16px;
+}
+.md-main, .md-container { background: transparent; }
+
+/* En-tête : logo horizontal + pastille WIKI, filet rouge */
+.md-header { background: var(--pn-navy); border-bottom: 3px solid var(--pn-red); box-shadow: none; }
+.md-tabs { background: var(--pn-navy); border-bottom: 1px solid var(--pn-navy-light); }
+.md-header__button.md-logo img { height: 1.7rem; width: auto; }
+.md-header__button.md-logo { display: flex; align-items: center; gap: .5rem; }
+.md-header__button.md-logo::after {
+  content: "WIKI"; font-family: "IBM Plex Mono", monospace; font-size: .55rem; letter-spacing: .15em;
+  color: #fff; background: var(--pn-red); padding: .15rem .4rem; border-radius: .2rem;
+}
+.md-header__title .md-header__topic:first-child { visibility: hidden; }
+@media screen and (max-width: 76.2344em) {
+  .md-header__title .md-header__topic:first-child { visibility: visible; }
+}
+
+/* Titres */
+.md-typeset h1, .md-typeset h2, .md-typeset h3 { font-family: "Sora", sans-serif; letter-spacing: -.01em; }
+.md-typeset h1 { font-weight: 800; color: var(--pn-white); }
+.md-typeset h2 { font-weight: 800; color: var(--pn-white); border-left: 4px solid var(--pn-red); padding-left: .6rem; }
+.md-typeset h3 { font-weight: 600; }
+
+/* Onglets et navigation */
+.md-tabs__link { font-family: "IBM Plex Mono", monospace; letter-spacing: .08em; text-transform: uppercase; font-size: .62rem; }
+.md-tabs__link--active, .md-nav__link--active { color: var(--pn-red-bright) !important; }
+
+/* Boutons */
+.md-typeset .md-button { border-radius: .3rem; font-weight: 600; border-color: var(--pn-grey); color: var(--pn-white); }
 .md-typeset .md-button--primary { background: var(--pn-red); border-color: var(--pn-red); color: #fff; }
-.md-typeset .md-button--primary:hover { background: var(--pn-red-bright); border-color: var(--pn-red-bright); }
-.md-typeset img.pn-photo { border-radius: 10px; max-width: 420px; width: 100%; }
+.md-typeset .md-button:hover, .md-typeset .md-button--primary:hover { background: var(--pn-red-bright); border-color: var(--pn-red-bright); color: #fff; }
+
+/* Encadrés (tip, note…) aux couleurs PixelNet */
+.md-typeset .admonition, .md-typeset details, .md-typeset .admonition.tip, .md-typeset .admonition.note { border-color: var(--pn-red); background: var(--pn-navy-2); }
+.md-typeset .admonition-title, .md-typeset summary { background: rgba(213,43,30,.12) !important; }
+.md-typeset .admonition-title::before, .md-typeset summary::before { background-color: var(--pn-red-bright) !important; }
+
+/* Tableaux */
+.md-typeset table:not([class]) { background: var(--pn-navy-2); border: 1px solid var(--pn-navy-light); }
+.md-typeset table:not([class]) th { background: var(--pn-navy-light); color: var(--pn-white); }
+
+/* Photos */
+.md-typeset img.pn-photo { border-radius: 10px; max-width: 420px; width: 100%; box-shadow: 0 16px 40px rgba(0,0,0,.45); }
+
+/* Accueil : bandeau */
+.pn-hero { padding: 1.5rem 0 1rem; }
+.pn-hero .pn-kick { font-family: "IBM Plex Mono", monospace; color: var(--pn-red-bright); letter-spacing: .2em; font-size: .7rem; }
+.pn-hero h1 { font-size: 2.6rem; margin: .3rem 0 .6rem; line-height: 1.05; }
+.pn-hero h1 span { color: var(--pn-red-bright); }
+.pn-hero p { color: var(--pn-grey); font-size: .95rem; max-width: 36rem; }
+
+/* Pied de page */
+.md-footer-meta { background: var(--pn-red); }
+.md-copyright, .md-copyright a { color: #fff; font-family: "IBM Plex Mono", monospace; letter-spacing: .05em; }
+
+/* Boutons et pastilles en police de la marque */
+.md-typeset .md-button { font-family: "Sora", sans-serif; }
+.pn-hero .pn-kick, .md-header__button.md-logo::after { font-family: "IBM Plex Mono", monospace; }
+.pn-pixel { font-family: "Press Start 2P", monospace; }

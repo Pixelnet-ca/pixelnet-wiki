@@ -1,11 +1,17 @@
-# Wiki PixelNet
+---
+hide:
+  - navigation
+  - toc
+---
 
-Guides, astuces et références pour les consoles rétro : mods, qualité d'image, entretien et réparation.
+<div class="pn-hero" markdown>
+<div class="pn-kick">▶ PIXELNET · WIKI</div>
+<h1>Tes classiques, <span>version 2.0</span></h1>
+<p>Guides, astuces et références pour les consoles rétro : mods, qualité d'image, entretien et réparation.</p>
 
-<div class="grid" markdown>
-[Guides :material-book-open-variant:](guides/index.md){ .md-button .md-button--primary }
-[Consoles :material-gamepad-variant:](consoles/index.md){ .md-button }
-[Boutique PixelNet :material-store:](https://pixelnet.ca/fr){ .md-button }
+[:material-book-open-variant: Guides](guides/index.md){ .md-button .md-button--primary }
+[:material-gamepad-variant: Consoles](consoles/index.md){ .md-button }
+[:material-store: Boutique PixelNet](https://pixelnet.ca/fr){ .md-button }
 </div>
 
 !!! tip "Besoin d'un coup de main ?"
