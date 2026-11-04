@@ -33,6 +33,9 @@ extra:
     - icon: material/email
       link: mailto:support@pixelnet.ca
       name: support@pixelnet.ca
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/@PixelNetCA
+      name: YouTube @PixelNetCA
 
 plugins:
   - search
