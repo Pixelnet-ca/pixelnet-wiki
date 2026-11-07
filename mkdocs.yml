@@ -1,7 +1,7 @@
 site_name: PixelNet Wiki
 site_url: https://wiki.pixelnet.ca/
 site_description: Guides, mods et réparation de consoles rétro — PixelNet, Trois-Rivières
-copyright: © PixelNet · <a href="https://pixelnet.ca">pixelnet.ca</a>
+copyright: © PixelNet · <a href="https://pixelnet.ca">pixelnet.ca</a> · <a href="https://ko-fi.com/pixelnetca">Support PixelNetCA ☕</a>
 
 theme:
   name: material
@@ -36,6 +36,9 @@ extra:
     - icon: fontawesome/brands/youtube
       link: https://www.youtube.com/@PixelNetCA
       name: YouTube @PixelNetCA
+    - icon: simple/kofi
+      link: https://ko-fi.com/pixelnetca
+      name: Support PixelNetCA (Ko-fi)
 
 plugins:
   - search
