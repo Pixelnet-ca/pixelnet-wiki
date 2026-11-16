@@ -8,15 +8,16 @@ La Super Nintendo d'origine est connue pour son image RGB un peu floue, avec des
 ## Ce que ça fait
 
 - **CleanRGB :** reconstruit correctement les signaux rouge, vert, bleu et sync : bons niveaux, équilibre des couleurs et filtrage du bruit.
-- **EdgeBuster :** élimine les fantômes et les contours flous causés par les puces vidéo de la SNES. Il est conçu pour les cartes **2 puces** (deux puces vidéo séparées, S-PPU1 et S-PPU2).
+- **EdgeBuster :** élimine les fantômes et les contours de pixels flous. La différence est la plus grande sur les cartes **2 puces** (deux puces vidéo séparées, S-PPU1 et S-PPU2), qui ont l'image la plus floue.
 
-## Compatibilité selon la révision
+## Compatibilité
 
-| Type de carte | Révisions (exemples) | CleanRGB | EdgeBuster |
+La carte CleanRGB + EdgeBuster fonctionne avec **toutes les révisions de SNES / Super Famicom**, 1 puce comme 2 puces. Ce qui change d'une révision à l'autre, c'est **où souder**.
+
+| Type de carte | Révisions (exemples) | Compatible | Gain d'image |
 |---|---|---|---|
-| **2 puces** | SHVC-CPU-01, SNS-CPU-GPM-01/02, SNS-CPU-RGB-01/02, SNS-CPU-APU-01, SNSP-CPU-01/02 (PAL) | ✅ | ✅ conçu pour ces cartes |
-| **1 puce** (1CHIP) | SNS-CPU-1CHIP-01/02/03, SNSP-CPU-1CHIP (PAL) | ✅ | ❌ inutile (déjà nette) |
-| **SNES Mini / New-Style** | SNN-CPU-01 | ⚠️ demande d'abord un mod RGB | ❌ |
+| **2 puces** | SHVC-CPU-01, SNS-CPU-GPM-01/02, SNS-CPU-RGB-01/02, SNS-CPU-APU-01, SNSP-CPU-01/02 (PAL) | ✅ | Énorme : fini le flou et les fantômes |
+| **1 puce** (1CHIP) | SNS-CPU-1CHIP-01/02/03, SNSP-CPU-1CHIP (PAL) | ✅ | Signal plus propre et plus stable |
 
 ## Trouver votre révision
 

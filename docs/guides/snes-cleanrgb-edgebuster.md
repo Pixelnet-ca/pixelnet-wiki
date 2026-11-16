@@ -8,15 +8,16 @@ The original SNES is known for a soft RGB picture, with ghosting on the edges of
 ## What it does
 
 - **CleanRGB:** rebuilds the red, green, blue and sync signals properly: correct levels, colour balance and noise filtering.
-- **EdgeBuster:** removes the ghosting and blurry edges caused by the SNES's video chips. It is meant for **2-chip** boards (two separate video chips, S-PPU1 and S-PPU2).
+- **EdgeBuster:** removes the ghosting and blurry pixel edges. The difference is biggest on **2-chip** boards (two separate video chips, S-PPU1 and S-PPU2), which have the softest picture.
 
-## Compatibility by revision
+## Compatibility
 
-| Board type | Revisions (examples) | CleanRGB | EdgeBuster |
+The CleanRGB + EdgeBuster board works with **every SNES / Super Famicom revision**, 1-chip and 2-chip alike. What changes from one revision to another is **where you solder**.
+
+| Board type | Revisions (examples) | Compatible | Picture gain |
 |---|---|---|---|
-| **2-chip** | SHVC-CPU-01, SNS-CPU-GPM-01/02, SNS-CPU-RGB-01/02, SNS-CPU-APU-01, SNSP-CPU-01/02 (PAL) | ✅ | ✅ made for these boards |
-| **1-chip** | SNS-CPU-1CHIP-01/02/03, SNSP-CPU-1CHIP (PAL) | ✅ | ❌ not needed (already sharp) |
-| **SNES Mini / New-Style** | SNN-CPU-01 | ⚠️ needs an RGB mod first | ❌ |
+| **2-chip** | SHVC-CPU-01, SNS-CPU-GPM-01/02, SNS-CPU-RGB-01/02, SNS-CPU-APU-01, SNSP-CPU-01/02 (PAL) | ✅ | Huge: no more blur and ghosting |
+| **1-chip** (1CHIP) | SNS-CPU-1CHIP-01/02/03, SNSP-CPU-1CHIP (PAL) | ✅ | Cleaner, more stable signal |
 
 ## Identify your revision
 
