@@ -42,6 +42,14 @@ extra:
 
 plugins:
   - search
+  - glightbox:
+      touchNavigation: true
+      loop: false
+      effect: zoom
+      zoomable: true
+      draggable: true
+      skip_classes:
+        - pn-noclick
   - i18n:
       docs_structure: suffix
       languages:

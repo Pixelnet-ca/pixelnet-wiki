@@ -40,9 +40,9 @@ All the work is done on the **underside** of the motherboard.
 |---|---|
 | **5V** | Cartridge slot, **pin 27** |
 | **GND** ⏚ | Cartridge slot, **pin 5** |
-| **Input R** | **Q3** |
-| **Input G** | **Q5** |
-| **Input B** | **Q7** |
+| **Input R** | **Q3** (exact pin: see the inputs photo) |
+| **Input G** | **Q5** (exact pin: see the inputs photo) |
+| **Input B** | **Q7** (exact pin: see the inputs photo) |
 | **Input S** (sync) | Pad between **Q3 and C69** |
 | **Output R** | Multi-out **pin 1** |
 | **Output G** | Multi-out **pin 2** |
@@ -75,7 +75,7 @@ Put Kapton tape under the board so nothing touches the motherboard. Connect **5V
 
 ### 3. Wire the inputs
 
-Short wires from the **INPUTS** row to Q3 (R), Q5 (G), Q7 (B) and the sync point between Q3 and C69.
+Short wires from the **INPUTS** row to Q3 (R), Q5 (G), Q7 (B) and the sync point between Q3 and C69. Solder to the **exact pin circled on the photo below**.
 
 ![Inputs: R, G, B and sync](../assets/guides/snes-cleanrgb/snes-cleanrgb-inputs.jpg){ .pn-photo }
 

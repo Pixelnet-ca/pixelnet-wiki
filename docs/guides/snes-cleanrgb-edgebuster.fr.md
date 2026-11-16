@@ -40,9 +40,9 @@ Tout se fait sur le **dessous** de la carte mère.
 |---|---|
 | **5V** | Fente de cartouche, **broche 27** |
 | **GND** ⏚ | Fente de cartouche, **broche 5** |
-| **Entrée R** | **Q3** |
-| **Entrée G** | **Q5** |
-| **Entrée B** | **Q7** |
+| **Entrée R** | **Q3** (patte exacte : voir la photo des entrées) |
+| **Entrée G** | **Q5** (patte exacte : voir la photo des entrées) |
+| **Entrée B** | **Q7** (patte exacte : voir la photo des entrées) |
 | **Entrée S** (sync) | Pastille entre **Q3 et C69** |
 | **Sortie R** | Multi-out **broche 1** |
 | **Sortie G** | Multi-out **broche 2** |
@@ -75,7 +75,7 @@ Mettez du ruban Kapton sous la carte pour que rien ne touche la carte mère. Bra
 
 ### 3. Câbler les entrées
 
-Des fils courts de la rangée **INPUTS** vers Q3 (R), Q5 (G), Q7 (B) et le point de sync entre Q3 et C69.
+Des fils courts de la rangée **INPUTS** vers Q3 (R), Q5 (G), Q7 (B) et le point de sync entre Q3 et C69. Soudez sur la **patte exacte encerclée sur la photo ci-dessous**.
 
 ![Entrées : R, G, B et sync](../assets/guides/snes-cleanrgb/snes-cleanrgb-inputs.jpg){ .pn-photo }
 
