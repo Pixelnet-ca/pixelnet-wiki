@@ -66,6 +66,7 @@ plugins:
             Consoles: Consoles
             Which scaler?: Quel scaler ?
             'SNES: CleanRGB + EdgeBuster': 'SNES : CleanRGB + EdgeBuster'
+            'NES: Lava RGB 2.0': 'NES : Lava RGB 2.0'
             Glossary: Lexique
 
 markdown_extensions:
@@ -89,6 +90,7 @@ nav:
       - guides/index.md
       - Which scaler?: guides/scalers.md
       - 'SNES: CleanRGB + EdgeBuster': guides/snes-cleanrgb-edgebuster.md
+      - 'NES: Lava RGB 2.0': guides/nes-lava-rgb.md
   - Consoles:
       - consoles/index.md
       - Nintendo: consoles/nintendo.md
