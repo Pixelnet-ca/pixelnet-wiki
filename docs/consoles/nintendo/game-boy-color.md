@@ -10,6 +10,30 @@
 
 ## Screen
 
+### Hispeedido IPS kit
+
+Laminated 2.8-inch IPS (480×432) with integer scaling and retro pixel effect, with a pre-cut shell.
+
+<div class="pn-rate" markdown>
+<span class="pn-k">Community</span> <span class="pn-stars pn-r4">★★★★☆</span> **Recommended** · Well liked, especially for its retro pixel look.
+
+<span class="pn-k">Install</span> <span class="pn-bar pn-d1">■□□□</span> **Easy** · Screwdriver (often a game bit), drop-in parts, no soldering.
+</div>
+
+:material-account-hard-hat: by [Hispeedido](https://www.hispeedido.com){ target=_blank } · [:material-cart: Buy](https://www.hispeedido.com){ target=_blank }
+
+### Hispeedido OLED screen
+
+Laminated AMOLED screen with touch controls and an on-screen menu: deep blacks and strong colours.
+
+<div class="pn-rate" markdown>
+<span class="pn-k">Community</span> <span class="pn-stars pn-r3">★★★☆☆</span> **Good, with caveats** · Striking colours and blacks, but newer and less proven than IPS kits.
+
+<span class="pn-k">Install</span> <span class="pn-bar pn-d1">■□□□</span> **Easy** · Screwdriver (often a game bit), drop-in parts, no soldering.
+</div>
+
+:material-account-hard-hat: by [Hispeedido](https://www.hispeedido.com){ target=_blank } · [:material-cart: Buy](https://www.hispeedido.com){ target=_blank }
+
 ### IPS screen (RetroSix)
 
 RetroSix backlit IPS screen kit for the Game Boy Color.

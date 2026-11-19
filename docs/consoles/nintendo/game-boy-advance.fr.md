@@ -12,6 +12,18 @@
 
 ## Écran
 
+### Trousse IPS V5 Hispeedido
+
+IPS laminé de 3,0 po (720×480) avec mise à l'échelle entière et menu à l'écran, avec boîtier prédécoupé et pile en option. Une version prête à installer avec boîtier existe pour la SP (sans taillage).
+
+<div class="pn-rate" markdown>
+<span class="pn-k">Communauté</span> <span class="pn-stars pn-r5">★★★★★</span> **Incontournable** · Parmi les trousses d'écran GBA les plus recommandées; les utilisateurs aiment ses couleurs rétro et ses scanlines.
+
+<span class="pn-k">Installation</span> <span class="pn-bar pn-d1">■□□□</span> **Facile** · Tournevis (souvent une pointe spéciale), pièces prêtes à installer, sans soudure.
+</div>
+
+:material-account-hard-hat: par [Hispeedido](https://www.hispeedido.com){ target=_blank } · [:material-cart: Acheter](https://www.hispeedido.com){ target=_blank }
+
 ### CleanScreen IPS
 
 Trousse IPS RetroSix pour la GBA : couleurs fidèles à l'original, évolutive de Core à Pro/Ultra avec l'appli CleanScreen.

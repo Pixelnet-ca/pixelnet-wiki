@@ -11,17 +11,29 @@
 
 ## Vidéo
 
-### PS1Digital (PixelFX)
+### Retro G.E.M.
 
-Sortie HDMI numérique interne avec mise à l'échelle et désentrelacement.
+Trousse HDMI interne qui prend la vidéo numérique de la console. Version Basic (720p, idéale avec un scaler externe) ou Shiny (mise à l'échelle complète intégrée). Avec un Morph 4K de PixelFX, ajoute le Game-ID et des réglages par jeu.
 
 <div class="pn-rate" markdown>
-<span class="pn-k">Communauté</span> <span class="pn-stars pn-r4">★★★★☆</span> **Recommandé** · Excellent HDMI avec désentrelacement. Cher; les premiers modèles ont déjà le RGB.
+<span class="pn-k">Communauté</span> <span class="pn-stars pn-r4">★★★★☆</span> **Recommandé** · Excellent HDMI directement de la vidéo numérique. Cher; les premiers modèles ont déjà un bon RGB.
 
 <span class="pn-k">Installation</span> <span class="pn-bar pn-d3">■■■□</span> **Avancé** · Soudure fine sur de petits points, retrait de composants, coupe de pistes.
 </div>
 
-[:material-cart: Acheter](https://www.pixelfx.co){ target=_blank }
+:material-account-hard-hat: par [PixelFX](https://www.pixelfx.co){ target=_blank } · [:material-cart: Acheter](https://www.pixelfx.co/retro-gem-kit?k=ps1){ target=_blank }
+
+### PS1Digital (PixelFX)
+
+Ancienne carte HDMI de PixelFX avec mise à l'échelle et désentrelacement. Plus sur le site de PixelFX : le Retro G.E.M. la remplace.
+
+<div class="pn-rate" markdown>
+<span class="pn-k">Communauté</span> <span class="pn-stars pn-r4">★★★★☆</span> **Recommandé** · Excellent HDMI avec désentrelacement; remplacé par le Retro G.E.M. pour les nouvelles installations.
+
+<span class="pn-k">Installation</span> <span class="pn-bar pn-d3">■■■□</span> **Avancé** · Soudure fine sur de petits points, retrait de composants, coupe de pistes.
+</div>
+
+:material-account-hard-hat: par [PixelFX](https://www.pixelfx.co){ target=_blank }
 
 ## Jeux et stockage
 

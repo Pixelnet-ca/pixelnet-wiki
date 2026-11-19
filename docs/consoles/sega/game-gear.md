@@ -36,6 +36,18 @@ RetroSix IPS screen kit, with versions for VA0/1/2 and VA4/VA5 boards.
 
 :material-account-hard-hat: by [RetroSix](https://www.retrosix.co.uk){ target=_blank } · [:material-cart: Buy](https://www.retrosix.co.uk){ target=_blank }
 
+### Hispeedido laminated IPS
+
+3.5-inch laminated 640×480 IPS, 16% larger than the original, with an on-screen menu. Not for VA4/VA5 (Majesco) or "Made in Taiwan" boards; needs their shell or a modified one.
+
+<div class="pn-rate" markdown>
+<span class="pn-k">Community</span> <span class="pn-stars pn-r3">★★★☆☆</span> **Good, with caveats** · Nice screen, but limited board compatibility and it needs a matching or modified shell.
+
+<span class="pn-k">Install</span> <span class="pn-bar pn-d2">■■□□</span> **Intermediate** · Basic soldering: a few wires or through-hole parts.
+</div>
+
+:material-account-hard-hat: by [Hispeedido](https://www.hispeedido.com){ target=_blank } · [:material-cart: Buy](https://www.hispeedido.com){ target=_blank }
+
 ### IPS / LCD screen kit
 
 Modern screen with sharp pixels, no ghosting, and often scaling options.
@@ -59,6 +71,18 @@ Stereo and mono audio amplifier for clean, loud sound.
 </div>
 
 :material-account-hard-hat: by [RetroSix](https://www.retrosix.co.uk){ target=_blank } · [:material-cart: Buy](https://www.retrosix.co.uk){ target=_blank }
+
+### Hispeedido sound board
+
+Brand-new replacement audio board: no more leaking capacitors on the old one.
+
+<div class="pn-rate" markdown>
+<span class="pn-k">Community</span> <span class="pn-stars pn-r4">★★★★☆</span> **Recommended** · Cheap, simple fix for the failure-prone audio board.
+
+<span class="pn-k">Install</span> <span class="pn-bar pn-d1">■□□□</span> **Easy** · Screwdriver (often a game bit), drop-in parts, no soldering.
+</div>
+
+:material-account-hard-hat: by [Hispeedido](https://www.hispeedido.com){ target=_blank } · [:material-cart: Buy](https://www.hispeedido.com){ target=_blank }
 
 ### Audio board
 

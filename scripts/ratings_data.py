@@ -86,9 +86,12 @@ R = {
  "Cheap, simple and cuts the heat inside the console.",
  "Pas cher, simple, et réduit la chaleur dans la console."),
 # ── N64 ──
-("n64", "N64Digital (PixelFX)"): (5, 3,
- "Reviewers call its scaling the most advanced of any original-hardware solution, with excellent scanlines. Expensive.",
- "Les critiques jugent sa mise à l'échelle la plus avancée de toutes les solutions sur console d'origine, avec d'excellentes scanlines. Cher."),
+("n64", "Retro G.E.M."): (5, 3,
+ "Considered the best current N64 HDMI solution, with more settings than older boards. Pricey; check your board revision is supported.",
+ "Considéré comme la meilleure solution HDMI N64 actuelle, avec plus de réglages que les anciennes cartes. Cher; vérifie que ta révision de carte est prise en charge."),
+("n64", "N64Digital (PixelFX)"): (4, 3,
+ "Reviewers called its scaling the most advanced of its time, with excellent scanlines. Worth it if found installed; for a new install, take the Retro G.E.M.",
+ "Les critiques jugeaient sa mise à l'échelle la plus avancée de son époque, avec d'excellentes scanlines. Intéressant si déjà installé; pour une nouvelle installation, prends le Retro G.E.M."),
 ("n64", "N64RGB"): (4, 3,
  "Proven and compatible with every model, PAL and NTSC. Analog only: pair it with a scaler or a CRT.",
  "Éprouvé et compatible avec tous les modèles, PAL et NTSC. Analogique seulement : à jumeler à un scaler ou un CRT."),
@@ -108,6 +111,7 @@ R = {
  "Brings worn controllers back to life. GameCube-style sticks feel different from the original; hall-effect ones last longest.",
  "Redonne vie aux manettes usées. Les sticks style GameCube ont une sensation différente; ceux à effet Hall durent le plus longtemps."),
 # ── GameCube ──
+("gamecube", "Retro G.E.M."): (4, 3, "Excellent picture and features, but GCVideo-based kits give a similar result for less.", "Excellente image et fonctions, mais les trousses GCVideo donnent un résultat semblable pour moins cher."),
 ("gamecube", "GCVideo HDMI"): (5, 1,
  "The go-to GameCube HDMI solution. Plug-in on the DOL-001; on the DOL-101 the internal install is advanced soldering.",
  "La solution HDMI GameCube de choix. Se branche sur la DOL-001; sur la DOL-101, l'installation interne demande une soudure avancée."),
@@ -125,6 +129,7 @@ R = {
  "Ça vaut la peine avant de remplacer le lecteur. Un GC Loader est souvent la solution plus durable."),
 # ── Wii ──
 ("wii", "Component cable"): (5, 0, "The easy, cheap, big improvement.", "L'amélioration facile, pas chère et importante."),
+("wii", "Retro G.E.M."): (4, 3, "The cleanest Wii picture, but component cables are already good for most people.", "L'image Wii la plus propre, mais le câble composantes suffit déjà pour la plupart des gens."),
 ("wii", "Internal HDMI"): (3, 4,
  "Cleaner than adapters, but costly and a delicate install. Component is enough for most people.",
  "Plus propre que les adaptateurs, mais coûteux et délicat à installer. Le composantes suffit pour la plupart des gens."),
@@ -204,6 +209,7 @@ R = {
 ("saturn", "CleanPower"): (3, 2, "Few community reports so far.", "Peu de retours de la communauté pour l'instant."),
 ("saturn", "Recap"): (4, 2, "Good care, especially the power supply.", "Bon entretien, surtout le bloc d'alimentation."),
 # ── Dreamcast ──
+("dreamcast", "Retro G.E.M."): (4, 3, "A strong alternative to the DCHDMI, from the same digital source. Fewer long-term reports so far.", "Une solide alternative au DCHDMI, de la même source numérique. Moins de retours à long terme pour l'instant."),
 ("dreamcast", "DCHDMI"): (5, 3,
  "Reviews call it the best Dreamcast picture outside emulation, with the correct aspect ratio. Costly, and not an easy install.",
  "Les critiques la jugent la meilleure image Dreamcast hors émulation, avec le bon format d'image. Coûteux, et pas facile à installer."),
@@ -233,7 +239,8 @@ R = {
 ("game-gear", "Recap (essential)"): (5, 3, "Almost every Game Gear needs it. Small surface-mount caps.", "Presque toutes les Game Gear en ont besoin. Petits condensateurs en surface."),
 ("game-gear", "Prestige shells"): (4, 1, "Good-quality shells, IPS-ready.", "Boîtiers de bonne qualité, prêts pour l'IPS."),
 # ── PlayStation ──
-("playstation", "PS1Digital (PixelFX)"): (4, 3, "Excellent HDMI with deinterlacing. Pricey; early models already have RGB.", "Excellent HDMI avec désentrelacement. Cher; les premiers modèles ont déjà le RGB."),
+("playstation", "Retro G.E.M."): (4, 3, "Excellent HDMI straight from the digital video. Pricey; early models already have good RGB.", "Excellent HDMI directement de la vidéo numérique. Cher; les premiers modèles ont déjà un bon RGB."),
+("playstation", "PS1Digital (PixelFX)"): (4, 3, "Excellent HDMI with deinterlacing; replaced by the Retro G.E.M. for new installs.", "Excellent HDMI avec désentrelacement; remplacé par le Retro G.E.M. pour les nouvelles installations."),
 ("playstation", "XStation"): (5, 3,
  "The community's top PS1 ODE, with good compatibility. Only fits models up to PU-18 (SCPH-550x). Some CD-audio glitches reported in firmware.",
  "Le meilleur ODE PS1 selon la communauté, avec une bonne compatibilité. Seulement pour les modèles jusqu'à PU-18 (SCPH-550x). Quelques problèmes d'audio CD rapportés dans le firmware."),
@@ -248,6 +255,7 @@ R = {
  "Convenient on any model, but lower compatibility than a hard drive: some games crash or stutter, and SD card choice matters.",
  "Pratique sur tous les modèles, mais moins compatible qu'un disque dur : certains jeux plantent ou saccadent, et le choix de carte SD compte."),
 ("playstation-2", "SD2PSX"): (4, 0, "Great memory card replacement.", "Excellent remplaçant de carte mémoire."),
+("playstation-2", "Retro G.E.M."): (4, 3, "Finally a true digital output for the PS2, where good HDMI options were rare. Fewer long-term reports so far.", "Enfin une vraie sortie numérique pour la PS2, où les bonnes options HDMI étaient rares. Moins de retours à long terme pour l'instant."),
 ("playstation-2", "FreeMcBoot + OPL"): (5, 0, "Free and the standard way in.", "Gratuit et la méthode standard."),
 ("playstation-2", "Modchip"): (2, 4, "Mostly unnecessary now that softmods exist; complex installs.", "Surtout inutile depuis les softmods; installations complexes."),
 ("playstation-2", "Laser, fan and thermal paste"): (4, 2, "Good preventive care on fat models.", "Bon entretien préventif sur les modèles Fat."),
@@ -313,6 +321,7 @@ R = {
 ("xbox", "Internal HDMI"): (4, 3, "Clean digital picture, well liked.", "Image numérique propre, appréciée."),
 ("xbox", "RAM / CPU upgrade"): (2, 4, "Expert work for a modest gain.", "Travail d'expert pour un gain modeste."),
 # ── Other ──
+("3do", "Retro G.E.M."): (4, 3, "One of the few ways to get a clean digital 3DO picture. Only some models are supported.", "Une des rares façons d'avoir une image 3DO numérique propre. Seuls certains modèles sont pris en charge."),
 ("3do", "RGB mod"): (4, 3, "Big picture gain.", "Gros gain d'image."),
 ("3do", "3DO ODE"): (4, 2, "Saves the fragile drive.", "Épargne le lecteur fragile."),
 ("3do", "Recap"): (3, 2, "Good care.", "Bon entretien."),
@@ -323,6 +332,14 @@ R = {
 ("intellivision", "Recap"): (3, 2, "Good care.", "Bon entretien."),
 ("vectrex", "Buzz fix"): (4, 2, "Cheap, well-known fix.", "Correction bien connue et pas chère."),
 ("vectrex", "Recap"): (4, 2, "Helps the built-in screen and sound.", "Aide l'écran intégré et le son."),
+("game-boy", "Hispeedido IPS kit"): (5, 1, "One of the two big names in Game Boy IPS kits; the pre-cut shell makes it an easy install.", "Une des deux grandes marques de trousses IPS Game Boy; le boîtier prédécoupé rend l'installation facile."),
+("game-boy-color", "Hispeedido IPS kit"): (4, 1, "Well liked, especially for its retro pixel look.", "Apprécié, surtout pour son look de pixel rétro."),
+("game-boy-color", "Hispeedido OLED screen"): (3, 1, "Striking colours and blacks, but newer and less proven than IPS kits.", "Couleurs et noirs saisissants, mais plus récent et moins éprouvé que les trousses IPS."),
+("game-boy-advance", "Hispeedido V5 IPS kit"): (5, 1, "Among the most recommended GBA screen kits; users like its retro colours and scanlines.", "Parmi les trousses d'écran GBA les plus recommandées; les utilisateurs aiment ses couleurs rétro et ses scanlines."),
+("game-gear", "Hispeedido laminated IPS"): (3, 2, "Nice screen, but limited board compatibility and it needs a matching or modified shell.", "Bel écran, mais compatibilité de carte limitée et il faut un boîtier assorti ou modifié."),
+("game-gear", "Hispeedido sound board"): (4, 1, "Cheap, simple fix for the failure-prone audio board.", "Solution simple et pas chère pour la carte audio fragile."),
+("lynx", "Hispeedido HDMI-out IPS (Lynx II)"): (3, 2, "Unique TV output, but few community reports so far.", "Sortie télé unique, mais peu de retours de la communauté pour l'instant."),
+("neo-geo-pocket-color", "Hispeedido Super OSD IPS"): (5, 2, "The reference NGPC screen kit; only minor soldering.", "La trousse d'écran NGPC de référence; seulement un peu de soudure."),
 }
 
 SOURCES = [

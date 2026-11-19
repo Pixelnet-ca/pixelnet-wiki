@@ -9,6 +9,20 @@
 
 **Légende :** :material-wrench: **Installé par PixelNet** · :material-book-open-variant: **Guide** sur ce wiki · :material-power-plug: **Sans installation** (cartouche, adaptateur ou logiciel) · :material-cart: **Acheter** à la source officielle
 
+## Vidéo
+
+### Retro G.E.M.
+
+Trousse HDMI interne qui prend la vidéo numérique de la console. Version Basic (720p, idéale avec un scaler externe) ou Shiny (mise à l'échelle complète intégrée). Avec un Morph 4K de PixelFX, ajoute le Game-ID et des réglages par jeu. Trousses distinctes pour les modèles Fat et Slim.
+
+<div class="pn-rate" markdown>
+<span class="pn-k">Communauté</span> <span class="pn-stars pn-r4">★★★★☆</span> **Recommandé** · Enfin une vraie sortie numérique pour la PS2, où les bonnes options HDMI étaient rares. Moins de retours à long terme pour l'instant.
+
+<span class="pn-k">Installation</span> <span class="pn-bar pn-d3">■■■□</span> **Avancé** · Soudure fine sur de petits points, retrait de composants, coupe de pistes.
+</div>
+
+:material-account-hard-hat: par [PixelFX](https://www.pixelfx.co){ target=_blank } · [:material-cart: Acheter](https://www.pixelfx.co/retro-gem-kit?k=ps2-fat){ target=_blank }
+
 ## Jeux et stockage
 
 ### Disque dur / SSD interne (Fat)

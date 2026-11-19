@@ -11,17 +11,29 @@
 
 ## Video
 
-### PS1Digital (PixelFX)
+### Retro G.E.M.
 
-Internal digital HDMI output with scaling and de-interlacing.
+Internal HDMI kit that taps the console's digital video. Basic version (720p, great with an external scaler) or Shiny version (full built-in scaling). With a PixelFX Morph 4K, adds Game-ID and per-game settings.
 
 <div class="pn-rate" markdown>
-<span class="pn-k">Community</span> <span class="pn-stars pn-r4">★★★★☆</span> **Recommended** · Excellent HDMI with deinterlacing. Pricey; early models already have RGB.
+<span class="pn-k">Community</span> <span class="pn-stars pn-r4">★★★★☆</span> **Recommended** · Excellent HDMI straight from the digital video. Pricey; early models already have good RGB.
 
 <span class="pn-k">Install</span> <span class="pn-bar pn-d3">■■■□</span> **Advanced** · Fine soldering on small points, removing parts, cutting traces.
 </div>
 
-[:material-cart: Buy](https://www.pixelfx.co){ target=_blank }
+:material-account-hard-hat: by [PixelFX](https://www.pixelfx.co){ target=_blank } · [:material-cart: Buy](https://www.pixelfx.co/retro-gem-kit?k=ps1){ target=_blank }
+
+### PS1Digital (PixelFX)
+
+Older PixelFX HDMI board with scaling and de-interlacing. No longer on PixelFX's site: the Retro G.E.M. replaces it.
+
+<div class="pn-rate" markdown>
+<span class="pn-k">Community</span> <span class="pn-stars pn-r4">★★★★☆</span> **Recommended** · Excellent HDMI with deinterlacing; replaced by the Retro G.E.M. for new installs.
+
+<span class="pn-k">Install</span> <span class="pn-bar pn-d3">■■■□</span> **Advanced** · Fine soldering on small points, removing parts, cutting traces.
+</div>
+
+:material-account-hard-hat: by [PixelFX](https://www.pixelfx.co){ target=_blank }
 
 ## Games & storage
 

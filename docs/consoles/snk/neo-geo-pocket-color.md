@@ -10,6 +10,18 @@
 
 ## Screen
 
+### Hispeedido Super OSD IPS
+
+Backlit IPS, 5% larger, with touch controls for brightness, colours and pixel effects. Versions for the NGP, NGPC and NGPC Slim; a few wires for the menu.
+
+<div class="pn-rate" markdown>
+<span class="pn-k">Community</span> <span class="pn-stars pn-r5">★★★★★</span> **Must-have** · The reference NGPC screen kit; only minor soldering.
+
+<span class="pn-k">Install</span> <span class="pn-bar pn-d2">■■□□</span> **Intermediate** · Basic soldering: a few wires or through-hole parts.
+</div>
+
+:material-account-hard-hat: by [Hispeedido](https://www.hispeedido.com){ target=_blank } · [:material-cart: Buy](https://www.hispeedido.com){ target=_blank }
+
 ### IPS screen kit
 
 Backlit IPS screen with brightness levels.

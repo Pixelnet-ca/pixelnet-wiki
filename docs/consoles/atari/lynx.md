@@ -11,6 +11,18 @@
 
 ## Screen
 
+### Hispeedido HDMI-out IPS (Lynx II)
+
+IPS screen kit for the Lynx II that also adds an HDMI output to play on a TV.
+
+<div class="pn-rate" markdown>
+<span class="pn-k">Community</span> <span class="pn-stars pn-r3">★★★☆☆</span> **Good, with caveats** · Unique TV output, but few community reports so far.
+
+<span class="pn-k">Install</span> <span class="pn-bar pn-d2">■■□□</span> **Intermediate** · Basic soldering: a few wires or through-hole parts.
+</div>
+
+:material-account-hard-hat: by [Hispeedido](https://www.hispeedido.com){ target=_blank } · [:material-cart: Buy](https://www.hispeedido.com){ target=_blank }
+
 ### CleanScreen IPS
 
 Replaces the dim, power-hungry screen with an IPS display: better colours and much longer battery life. Lynx I and II.

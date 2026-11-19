@@ -11,6 +11,18 @@
 
 ## Écran
 
+### IPS avec sortie HDMI Hispeedido (Lynx II)
+
+Trousse d'écran IPS pour la Lynx II qui ajoute aussi une sortie HDMI pour jouer sur une télé.
+
+<div class="pn-rate" markdown>
+<span class="pn-k">Communauté</span> <span class="pn-stars pn-r3">★★★☆☆</span> **Bon, avec réserves** · Sortie télé unique, mais peu de retours de la communauté pour l'instant.
+
+<span class="pn-k">Installation</span> <span class="pn-bar pn-d2">■■□□</span> **Intermédiaire** · Soudure de base : quelques fils ou composants traversants.
+</div>
+
+:material-account-hard-hat: par [Hispeedido](https://www.hispeedido.com){ target=_blank } · [:material-cart: Acheter](https://www.hispeedido.com){ target=_blank }
+
 ### CleanScreen IPS
 
 Remplace l'écran sombre et gourmand par un écran IPS : meilleures couleurs et pile qui dure bien plus. Lynx I et II.

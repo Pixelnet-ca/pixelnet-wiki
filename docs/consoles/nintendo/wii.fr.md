@@ -23,6 +23,18 @@ Pas un mod, mais la meilleure image d'origine : 480p en composantes, bien mieux 
 
 :material-power-plug: Sans installation
 
+### Retro G.E.M.
+
+Trousse HDMI interne qui prend la vidéo numérique de la console. Version Basic (720p, idéale avec un scaler externe) ou Shiny (mise à l'échelle complète intégrée). Avec un Morph 4K de PixelFX, ajoute le Game-ID et des réglages par jeu.
+
+<div class="pn-rate" markdown>
+<span class="pn-k">Communauté</span> <span class="pn-stars pn-r4">★★★★☆</span> **Recommandé** · L'image Wii la plus propre, mais le câble composantes suffit déjà pour la plupart des gens.
+
+<span class="pn-k">Installation</span> <span class="pn-bar pn-d3">■■■□</span> **Avancé** · Soudure fine sur de petits points, retrait de composants, coupe de pistes.
+</div>
+
+:material-account-hard-hat: par [PixelFX](https://www.pixelfx.co){ target=_blank } · [:material-cart: Acheter](https://www.pixelfx.co/retro-gem-kit?k=wii){ target=_blank }
+
 ### HDMI interne
 
 Trousses internes qui prennent la vidéo numérique pour une image HDMI plus propre que les adaptateurs HDMI.

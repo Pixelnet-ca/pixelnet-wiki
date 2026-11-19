@@ -11,6 +11,18 @@
 
 ## Écran
 
+### Trousse IPS Hispeedido
+
+IPS laminé de 3,1 po (Q5 / V5) avec mise à l'échelle entière, vendu avec un boîtier prédécoupé et une pile USB-C en option. Aussi pour la Pocket, avec logo qui change de couleur.
+
+<div class="pn-rate" markdown>
+<span class="pn-k">Communauté</span> <span class="pn-stars pn-r5">★★★★★</span> **Incontournable** · Une des deux grandes marques de trousses IPS Game Boy; le boîtier prédécoupé rend l'installation facile.
+
+<span class="pn-k">Installation</span> <span class="pn-bar pn-d1">■□□□</span> **Facile** · Tournevis (souvent une pointe spéciale), pièces prêtes à installer, sans soudure.
+</div>
+
+:material-account-hard-hat: par [Hispeedido](https://www.hispeedido.com){ target=_blank } · [:material-cart: Acheter](https://www.hispeedido.com){ target=_blank }
+
 ### CleanScreen IPS
 
 Trousse IPS RetroSix : remplace la carte avant par un écran IPS rétroéclairé avec modes de palette. Facile pour débuter.

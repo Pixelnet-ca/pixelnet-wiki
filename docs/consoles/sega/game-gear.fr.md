@@ -36,6 +36,18 @@ Trousse d'écran IPS RetroSix, avec des versions pour les cartes VA0/1/2 et VA4/
 
 :material-account-hard-hat: par [RetroSix](https://www.retrosix.co.uk){ target=_blank } · [:material-cart: Acheter](https://www.retrosix.co.uk){ target=_blank }
 
+### IPS laminé Hispeedido
+
+IPS laminé de 3,5 po, 640×480, 16 % plus grand que l'original, avec menu à l'écran. Pas pour les cartes VA4/VA5 (Majesco) ni « Made in Taiwan »; demande leur boîtier ou un boîtier modifié.
+
+<div class="pn-rate" markdown>
+<span class="pn-k">Communauté</span> <span class="pn-stars pn-r3">★★★☆☆</span> **Bon, avec réserves** · Bel écran, mais compatibilité de carte limitée et il faut un boîtier assorti ou modifié.
+
+<span class="pn-k">Installation</span> <span class="pn-bar pn-d2">■■□□</span> **Intermédiaire** · Soudure de base : quelques fils ou composants traversants.
+</div>
+
+:material-account-hard-hat: par [Hispeedido](https://www.hispeedido.com){ target=_blank } · [:material-cart: Acheter](https://www.hispeedido.com){ target=_blank }
+
 ### Trousse d'écran IPS / LCD
 
 Écran moderne aux pixels nets, sans traînées, souvent avec des options de mise à l'échelle.
@@ -59,6 +71,18 @@ Amplificateur audio stéréo et mono pour un son propre et fort.
 </div>
 
 :material-account-hard-hat: par [RetroSix](https://www.retrosix.co.uk){ target=_blank } · [:material-cart: Acheter](https://www.retrosix.co.uk){ target=_blank }
+
+### Carte audio Hispeedido
+
+Carte audio neuve de remplacement : fini les condensateurs qui coulent sur l'ancienne.
+
+<div class="pn-rate" markdown>
+<span class="pn-k">Communauté</span> <span class="pn-stars pn-r4">★★★★☆</span> **Recommandé** · Solution simple et pas chère pour la carte audio fragile.
+
+<span class="pn-k">Installation</span> <span class="pn-bar pn-d1">■□□□</span> **Facile** · Tournevis (souvent une pointe spéciale), pièces prêtes à installer, sans soudure.
+</div>
+
+:material-account-hard-hat: par [Hispeedido](https://www.hispeedido.com){ target=_blank } · [:material-cart: Acheter](https://www.hispeedido.com){ target=_blank }
 
 ### Carte audio
 

@@ -11,6 +11,18 @@
 
 ## Video
 
+### Retro G.E.M.
+
+Internal HDMI kit that taps the console's digital video. Basic version (720p, great with an external scaler) or Shiny version (full built-in scaling). With a PixelFX Morph 4K, adds Game-ID and per-game settings.
+
+<div class="pn-rate" markdown>
+<span class="pn-k">Community</span> <span class="pn-stars pn-r4">★★★★☆</span> **Recommended** · Excellent picture and features, but GCVideo-based kits give a similar result for less.
+
+<span class="pn-k">Install</span> <span class="pn-bar pn-d3">■■■□</span> **Advanced** · Fine soldering on small points, removing parts, cutting traces.
+</div>
+
+:material-account-hard-hat: by [PixelFX](https://www.pixelfx.co){ target=_blank } · [:material-cart: Buy](https://www.pixelfx.co/retro-gem-kit?k=gc){ target=_blank }
+
 ### GCVideo HDMI
 
 Open-source firmware that turns the digital video into clean HDMI. Plug-in on DOL-001 (Digital AV port), internal install on DOL-101.

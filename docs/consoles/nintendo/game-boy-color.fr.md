@@ -10,6 +10,30 @@
 
 ## Écran
 
+### Trousse IPS Hispeedido
+
+IPS laminé de 2,8 po (480×432) avec mise à l'échelle entière et effet de pixel rétro, avec boîtier prédécoupé.
+
+<div class="pn-rate" markdown>
+<span class="pn-k">Communauté</span> <span class="pn-stars pn-r4">★★★★☆</span> **Recommandé** · Apprécié, surtout pour son look de pixel rétro.
+
+<span class="pn-k">Installation</span> <span class="pn-bar pn-d1">■□□□</span> **Facile** · Tournevis (souvent une pointe spéciale), pièces prêtes à installer, sans soudure.
+</div>
+
+:material-account-hard-hat: par [Hispeedido](https://www.hispeedido.com){ target=_blank } · [:material-cart: Acheter](https://www.hispeedido.com){ target=_blank }
+
+### Écran OLED Hispeedido
+
+Écran AMOLED laminé avec commandes tactiles et menu à l'écran : noirs profonds et couleurs fortes.
+
+<div class="pn-rate" markdown>
+<span class="pn-k">Communauté</span> <span class="pn-stars pn-r3">★★★☆☆</span> **Bon, avec réserves** · Couleurs et noirs saisissants, mais plus récent et moins éprouvé que les trousses IPS.
+
+<span class="pn-k">Installation</span> <span class="pn-bar pn-d1">■□□□</span> **Facile** · Tournevis (souvent une pointe spéciale), pièces prêtes à installer, sans soudure.
+</div>
+
+:material-account-hard-hat: par [Hispeedido](https://www.hispeedido.com){ target=_blank } · [:material-cart: Acheter](https://www.hispeedido.com){ target=_blank }
+
 ### Écran IPS (RetroSix)
 
 Trousse d'écran IPS rétroéclairé RetroSix pour la Game Boy Color.

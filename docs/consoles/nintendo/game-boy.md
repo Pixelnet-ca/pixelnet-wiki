@@ -11,6 +11,18 @@
 
 ## Screen
 
+### Hispeedido IPS kit
+
+Laminated 3.1-inch IPS (Q5 / V5) with integer scaling, sold with a pre-cut shell and optional USB-C battery. Pocket kits too, with a colour-changing logo.
+
+<div class="pn-rate" markdown>
+<span class="pn-k">Community</span> <span class="pn-stars pn-r5">★★★★★</span> **Must-have** · One of the two big names in Game Boy IPS kits; the pre-cut shell makes it an easy install.
+
+<span class="pn-k">Install</span> <span class="pn-bar pn-d1">■□□□</span> **Easy** · Screwdriver (often a game bit), drop-in parts, no soldering.
+</div>
+
+:material-account-hard-hat: by [Hispeedido](https://www.hispeedido.com){ target=_blank } · [:material-cart: Buy](https://www.hispeedido.com){ target=_blank }
+
 ### CleanScreen IPS
 
 RetroSix IPS kit: replaces the front board with a backlit IPS screen with palette modes. Beginner-friendly.

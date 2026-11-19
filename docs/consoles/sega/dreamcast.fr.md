@@ -10,6 +10,18 @@
 
 ## Vidéo
 
+### Retro G.E.M.
+
+Trousse HDMI interne qui prend la vidéo numérique de la console. Version Basic (720p, idéale avec un scaler externe) ou Shiny (mise à l'échelle complète intégrée). Avec un Morph 4K de PixelFX, ajoute le Game-ID et des réglages par jeu.
+
+<div class="pn-rate" markdown>
+<span class="pn-k">Communauté</span> <span class="pn-stars pn-r4">★★★★☆</span> **Recommandé** · Une solide alternative au DCHDMI, de la même source numérique. Moins de retours à long terme pour l'instant.
+
+<span class="pn-k">Installation</span> <span class="pn-bar pn-d3">■■■□</span> **Avancé** · Soudure fine sur de petits points, retrait de composants, coupe de pistes.
+</div>
+
+:material-account-hard-hat: par [PixelFX](https://www.pixelfx.co){ target=_blank } · [:material-cart: Acheter](https://www.pixelfx.co/retro-gem-kit?k=dc){ target=_blank }
+
 ### DCHDMI
 
 Sortie HDMI numérique interne, open source. Plus propre qu'un adaptateur VGA-HDMI.

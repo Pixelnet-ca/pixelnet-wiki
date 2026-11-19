@@ -9,6 +9,20 @@
 
 **Legend:** :material-wrench: **PixelNet installs it** · :material-book-open-variant: **Guide** on this wiki · :material-power-plug: **No install** (cart, adapter or software) · :material-cart: **Buy** from the official source
 
+## Video
+
+### Retro G.E.M.
+
+Internal HDMI kit that taps the console's digital video. Basic version (720p, great with an external scaler) or Shiny version (full built-in scaling). With a PixelFX Morph 4K, adds Game-ID and per-game settings. Separate kits for the fat and slim models.
+
+<div class="pn-rate" markdown>
+<span class="pn-k">Community</span> <span class="pn-stars pn-r4">★★★★☆</span> **Recommended** · Finally a true digital output for the PS2, where good HDMI options were rare. Fewer long-term reports so far.
+
+<span class="pn-k">Install</span> <span class="pn-bar pn-d3">■■■□</span> **Advanced** · Fine soldering on small points, removing parts, cutting traces.
+</div>
+
+:material-account-hard-hat: by [PixelFX](https://www.pixelfx.co){ target=_blank } · [:material-cart: Buy](https://www.pixelfx.co/retro-gem-kit?k=ps2-fat){ target=_blank }
+
 ## Games & storage
 
 ### Internal HDD / SSD (fat)

@@ -11,6 +11,18 @@
 
 ## Vidéo
 
+### Retro G.E.M.
+
+Trousse HDMI interne qui prend la vidéo numérique de la console. Version Basic (720p, idéale avec un scaler externe) ou Shiny (mise à l'échelle complète intégrée). Avec un Morph 4K de PixelFX, ajoute le Game-ID et des réglages par jeu.
+
+<div class="pn-rate" markdown>
+<span class="pn-k">Communauté</span> <span class="pn-stars pn-r4">★★★★☆</span> **Recommandé** · Excellente image et fonctions, mais les trousses GCVideo donnent un résultat semblable pour moins cher.
+
+<span class="pn-k">Installation</span> <span class="pn-bar pn-d3">■■■□</span> **Avancé** · Soudure fine sur de petits points, retrait de composants, coupe de pistes.
+</div>
+
+:material-account-hard-hat: par [PixelFX](https://www.pixelfx.co){ target=_blank } · [:material-cart: Acheter](https://www.pixelfx.co/retro-gem-kit?k=gc){ target=_blank }
+
 ### GCVideo HDMI
 
 Firmware open source qui transforme la vidéo numérique en HDMI propre. Se branche sur la DOL-001 (port Digital AV), installation interne sur la DOL-101.

@@ -12,6 +12,18 @@
 
 ## Screen
 
+### Hispeedido V5 IPS kit
+
+Laminated 3.0-inch IPS (720×480) with integer scaling and an on-screen menu, with a pre-cut shell and optional battery. A drop-in version with shell exists for the SP (no trimming).
+
+<div class="pn-rate" markdown>
+<span class="pn-k">Community</span> <span class="pn-stars pn-r5">★★★★★</span> **Must-have** · Among the most recommended GBA screen kits; users like its retro colours and scanlines.
+
+<span class="pn-k">Install</span> <span class="pn-bar pn-d1">■□□□</span> **Easy** · Screwdriver (often a game bit), drop-in parts, no soldering.
+</div>
+
+:material-account-hard-hat: by [Hispeedido](https://www.hispeedido.com){ target=_blank } · [:material-cart: Buy](https://www.hispeedido.com){ target=_blank }
+
 ### CleanScreen IPS
 
 RetroSix IPS kit for the GBA: true-to-original colours, upgradeable from Core to Pro/Ultra through the CleanScreen app.

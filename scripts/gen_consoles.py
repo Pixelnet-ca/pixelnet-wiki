@@ -90,7 +90,9 @@ def console_page(b, c, lang):
             if m.get("by"):
                 mk = MAKERS[m["by"]]
                 tags.append(f":material-account-hard-hat: {t['by']} [{mk['name']}]({mk['url']}){{ target=_blank }}")
-            buy = m.get("buy") or (MAKERS[m["by"]]["shop"] if m.get("by") else None)
+            buy = m.get("buy")
+            if buy is None and m.get("by"):
+                buy = MAKERS[m["by"]]["shop"]
             if buy:
                 tags.append(f"[:material-cart: {t['buy']}]({buy}){{ target=_blank }}")
             if m.get("ni"):
@@ -144,7 +146,8 @@ def index_page(lang):
     o += [f"## {t['makers']}", "", t["makers_b"], ""]
     for k, mk in MAKERS.items():
         n = sum(1 for b in BRANDS for c in b["consoles"] for v in c["mods"].values() for m in v if m.get("by") == k)
-        o.append(f"- [**{mk['name']}**]({mk['url']}){{ target=_blank }} ({mk['where'] if lang == 'en' else mk['ou']}) · *{t['mods_n'].format(n=n)}* · [:material-cart: {t['buy']}]({mk['shop']}){{ target=_blank }}")
+        where = mk['where'] if lang == 'en' else mk['ou']
+        o.append(f"- [**{mk['name']}**]({mk['url']}){{ target=_blank }}{f' ({where})' if where else ''} · *{t['mods_n'].format(n=n)}* · [:material-cart: {t['buy']}]({mk['shop']}){{ target=_blank }}")
     o.append("")
     o += [f'!!! info "{t["start"]}"', f"    {t['start_b']}", ""]
     return "\n".join(o)

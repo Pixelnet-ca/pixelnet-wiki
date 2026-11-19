@@ -10,6 +10,18 @@
 
 ## Écran
 
+### IPS Super OSD Hispeedido
+
+IPS rétroéclairé, 5 % plus grand, avec commandes tactiles pour la luminosité, les couleurs et les effets de pixel. Versions NGP, NGPC et NGPC Slim; quelques fils pour le menu.
+
+<div class="pn-rate" markdown>
+<span class="pn-k">Communauté</span> <span class="pn-stars pn-r5">★★★★★</span> **Incontournable** · La trousse d'écran NGPC de référence; seulement un peu de soudure.
+
+<span class="pn-k">Installation</span> <span class="pn-bar pn-d2">■■□□</span> **Intermédiaire** · Soudure de base : quelques fils ou composants traversants.
+</div>
+
+:material-account-hard-hat: par [Hispeedido](https://www.hispeedido.com){ target=_blank } · [:material-cart: Acheter](https://www.hispeedido.com){ target=_blank }
+
 ### Trousse d'écran IPS
 
 Écran IPS rétroéclairé avec niveaux de luminosité.
