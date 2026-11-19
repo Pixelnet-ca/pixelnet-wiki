@@ -10,6 +10,9 @@ Les termes qu'on croise souvent dans le monde des consoles rétro et des mods, e
 ### 240p
 La résolution d'origine de la plupart des consoles jusqu'à la PlayStation. C'est une image *progressive* de 240 lignes. Beaucoup de télés modernes la prennent pour du 480i et la traitent mal : image floue et délai. Un [scaler](#scaler) règle le problème.
 
+### 240p Test Suite
+Logiciel homebrew gratuit d'Artemio Urbina qui fonctionne sur plusieurs consoles rétro (Genesis, SNES, Dreamcast, GameCube, Wii et plus). Il affiche des mires de test pour vérifier un mod, un câble, un [scaler](#scaler) ou une télé : couleurs, netteté, niveaux de noir, overscan et délai. Il inclut aussi MDFourier, pour comparer le son d'une console. À télécharger sur [itch.io](https://artemiourbina.itch.io/240p-test-suite){ target=_blank }; voir aussi notre page [Ressources](resources.md).
+
 ### Composante (YPbPr)
 Signal vidéo séparé en trois câbles (vert, bleu, rouge). Qualité très proche du RGB. Offerte par la PS2, la GameCube et la Wii.
 
