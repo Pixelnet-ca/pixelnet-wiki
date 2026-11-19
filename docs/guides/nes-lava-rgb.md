@@ -6,7 +6,10 @@ From the factory, the NES front-loader only outputs composite and RF: a soft, sm
     You have to **remove the PPU** (40 pins) and the **original power/A/V module** from the motherboard. You need a good desoldering tool and some patience. Not comfortable? PixelNet can [install it for you](https://pixelnet.ca/products/lava-rgb-nes).
 
 !!! info "Sources"
-    This guide is based on the instructions that come with the kit and on a [detailed public build log](https://amaiorano.io/2025/09/03/lava-rgb.html){ target=_blank } (NES-CPU-10 board). Photos from our own installs are coming.
+    This guide is based on the instructions that come with the kit and on a [detailed public build log](https://amaiorano.io/2025/09/03/lava-rgb.html){ target=_blank } (NES-CPU-10 board). The diagrams on this page are PixelNet originals.
+
+!!! note "Photos coming"
+    For now this guide uses diagrams. **In time, we'll add our own photos** taken during our Lava RGB 2.0 installs, step by step.
 
 ## What it does
 
@@ -51,6 +54,8 @@ The motherboard revision is printed on the board (for example **NES-CPU-10**).
 | **Kit instructions** | Mod board soldered **directly** to the motherboard | Simpler, but hard to remove later |
 | **Socketed** (PixelNet recommendation) | Socket on the motherboard, PPU soldered **onto the mod board** | The board can be pulled out for service; needs round pin headers |
 
+![The two install methods: soldered directly or socketed](../assets/guides/nes-lava-rgb/lava-methods-en.png){ .pn-diagram }
+
 The steps below follow the **socketed** method.
 
 ## Steps
@@ -91,6 +96,8 @@ Three capacitors on the motherboard are too tall: the mod board won't fit over t
 | **RST** | The motherboard **reset line** (where the Reset button connects) |
 | **CLK, DATA, LATCH** | **Player 1 controller** lines (for IGR and palettes) |
 
+![12-wire connector: where each wire goes](../assets/guides/nes-lava-rgb/lava-wiring-en.png){ .pn-diagram }
+
 !!! warning "DATA and LATCH"
     On the motherboard side, **DATA and LATCH are swapped** compared to their order on the Lava board. Check each wire with the multimeter against the kit diagram before soldering.
 
@@ -116,6 +123,8 @@ To hear expansion audio (Famicom games through an adapter, some flash carts): so
 - Screw the shell back on.
 
 ## Using it
+
+![Controller shortcuts: hold Select, then A or Up](../assets/guides/nes-lava-rgb/lava-controls-en.png){ .pn-diagram }
 
 | Action | Controller (player 1) |
 |---|---|

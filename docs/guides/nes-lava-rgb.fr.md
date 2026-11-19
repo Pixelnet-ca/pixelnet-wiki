@@ -6,7 +6,10 @@ D'origine, la NES à chargement frontal ne sort que du composite et du RF : une 
     Il faut **retirer le PPU** (40 broches) et le **module d'alimentation/A-V d'origine** de la carte mère. Ça prend un bon outil de dessoudage et de la patience. Pas à l'aise ? PixelNet peut [l'installer pour vous](https://pixelnet.ca/fr/products/lava-rgb-nes).
 
 !!! info "Sources"
-    Ce guide s'appuie sur les instructions fournies avec le kit et sur un [journal d'installation public détaillé](https://amaiorano.io/2025/09/03/lava-rgb.html){ target=_blank } (en anglais, carte NES-CPU-10). Les photos de nos propres installations s'en viennent.
+    Ce guide s'appuie sur les instructions fournies avec le kit et sur un [journal d'installation public détaillé](https://amaiorano.io/2025/09/03/lava-rgb.html){ target=_blank } (en anglais, carte NES-CPU-10). Les schémas de cette page sont des originaux de PixelNet.
+
+!!! note "Photos à venir"
+    Pour l'instant, ce guide utilise des schémas. **Avec le temps, on ajoutera nos propres photos**, prises pendant nos installations du Lava RGB 2.0, étape par étape.
 
 ## Ce que ça fait
 
@@ -51,6 +54,8 @@ La révision de la carte mère est imprimée sur la carte (par exemple **NES-CPU
 | **Instructions du kit** | Carte Lava soudée **directement** sur la carte mère | Plus simple, mais difficile à retirer plus tard |
 | **Sur support** (recommandation PixelNet) | Support sur la carte mère, PPU soudé **sur la carte Lava** | La carte s'enlève pour l'entretien; demande des barrettes rondes |
 
+![Les deux méthodes : soudée directement ou sur support](../assets/guides/nes-lava-rgb/lava-methods-fr.png){ .pn-diagram }
+
 Les étapes ci-dessous suivent la méthode **sur support**.
 
 ## Étapes
@@ -91,6 +96,8 @@ Trois condensateurs de la carte mère sont trop hauts : la carte Lava ne passe p
 | **RST** | La **ligne de reset** de la carte mère (là où se branche le bouton Reset) |
 | **CLK, DATA, LATCH** | Les lignes de la **manette du joueur 1** (pour l'IGR et les palettes) |
 
+![Connecteur à 12 fils : où va chaque fil](../assets/guides/nes-lava-rgb/lava-wiring-fr.png){ .pn-diagram }
+
 !!! warning "DATA et LATCH"
     Côté carte mère, **DATA et LATCH sont inversés** par rapport à leur ordre sur la carte Lava. Vérifiez chaque fil au multimètre avec le schéma du kit avant de souder.
 
@@ -116,6 +123,8 @@ Pour entendre l'audio d'extension (jeux Famicom avec adaptateur, certaines carto
 - Revissez le boîtier.
 
 ## Utilisation
+
+![Raccourcis manette : tenir Select, puis A ou Haut](../assets/guides/nes-lava-rgb/lava-controls-fr.png){ .pn-diagram }
 
 | Action | Manette (joueur 1) |
 |---|---|

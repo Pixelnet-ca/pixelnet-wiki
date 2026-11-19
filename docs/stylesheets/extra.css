@@ -127,3 +127,6 @@ body {
 .md-header__button.pn-lang small { opacity: .7; }
 .md-header__button.pn-lang:hover { border-color: var(--pn-grey); }
 @media screen and (max-width: 44.9844em) { .md-header__button.pn-lang span { display: none; } .md-header__button.pn-lang { padding: .3rem .45rem; } }
+
+/* Guides : schémas larges */
+.md-typeset img.pn-diagram { border-radius: 10px; max-width: 760px; width: 100%; box-shadow: 0 16px 40px rgba(0,0,0,.45); }
