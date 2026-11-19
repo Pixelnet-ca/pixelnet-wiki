@@ -25,6 +25,9 @@ A cathode-ray tube TV, the "big old TV". Retro consoles were designed for them: 
 ### Csync
 *Composite sync*. The recommended sync signal for RGB cables. It's cleaner than sync taken from composite video, which can cause interference.
 
+### Dejitter
+A fix for the slightly irregular video timing of some consoles, like the NES and SNES. A CRT doesn't mind, but some modern [scalers](#scaler) and HDMI devices can show a wobbly picture or drop the signal. A dejitter mod makes the timing stable. The NESRGB includes it, for example.
+
 ### Input lag
 The delay between pressing a button and seeing the action on screen. Modern TVs add a lot of it when processing old signals. A good scaler adds almost none.
 

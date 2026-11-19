@@ -25,6 +25,9 @@ Télé cathodique, la « grosse télé » d'autrefois. Les consoles rétro ont �
 ### Csync
 *Composite sync*. Le signal de synchronisation recommandé pour les câbles RGB. Il est plus propre que la synchronisation tirée du composite, qui peut causer des parasites.
 
+### Dejitter
+Correction du signal vidéo légèrement irrégulier de certaines consoles, comme la NES et la SNES. Un CRT s'en accommode, mais certains [scalers](#scaler) modernes et appareils HDMI peuvent montrer une image qui ondule ou perdre le signal. Un mod dejitter rend le signal stable. Le NESRGB l'inclut, par exemple.
+
 ### Jailbars
 Fines barres verticales visibles sur l'image, surtout sur la Genesis modèle 2 et certaines SNES. Elles viennent du circuit vidéo de la console et se corrigent avec un mod comme le [Triple Bypass](#triple-bypass-3bp).
 
