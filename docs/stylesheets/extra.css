@@ -130,3 +130,12 @@ body {
 
 /* Guides : schémas larges */
 .md-typeset img.pn-diagram { border-radius: 10px; max-width: 760px; width: 100%; box-shadow: 0 16px 40px rgba(0,0,0,.45); }
+
+/* Notes de la communauté et difficulté (pages Consoles) */
+.md-typeset .pn-rate { background: var(--pn-navy-2); border: 1px solid var(--pn-navy-light); border-left: 3px solid var(--pn-red); border-radius: .3rem; padding: .35rem .7rem; margin: .4rem 0 .8rem; font-size: .72rem; }
+.md-typeset .pn-rate p { margin: .25rem 0; }
+.md-typeset .pn-k { display: inline-block; min-width: 6.6rem; font-family: "IBM Plex Mono", monospace; font-size: .6rem; letter-spacing: .08em; text-transform: uppercase; color: var(--pn-grey); }
+.md-typeset .pn-stars { color: var(--pn-red-bright); letter-spacing: .05em; }
+.md-typeset .pn-stars.pn-r1, .md-typeset .pn-stars.pn-r2 { color: var(--pn-grey); }
+.md-typeset .pn-bar { font-family: "IBM Plex Mono", monospace; color: var(--pn-grey); letter-spacing: .1em; }
+.md-typeset .pn-bar.pn-d3, .md-typeset .pn-bar.pn-d4 { color: var(--pn-red-bright); }

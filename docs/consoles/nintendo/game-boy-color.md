@@ -14,11 +14,23 @@
 
 RetroSix backlit IPS screen kit for the Game Boy Color.
 
+<div class="pn-rate" markdown>
+<span class="pn-k">Community</span> <span class="pn-stars pn-r4">★★★★☆</span> **Recommended** · Solid drop-in kit.
+
+<span class="pn-k">Install</span> <span class="pn-bar pn-d1">■□□□</span> **Easy** · Screwdriver (often a game bit), drop-in parts, no soldering.
+</div>
+
 :material-account-hard-hat: by [RetroSix](https://www.retrosix.co.uk){ target=_blank } · [:material-cart: Buy](https://www.retrosix.co.uk){ target=_blank }
 
 ### IPS screen kit
 
 Backlit IPS screen, often laminated, with brightness levels and an on-screen menu.
+
+<div class="pn-rate" markdown>
+<span class="pn-k">Community</span> <span class="pn-stars pn-r5">★★★★★</span> **Must-have** · The essential GBC mod; the FunnyPlaying Q5 laminated kit is the most installed.
+
+<span class="pn-k">Install</span> <span class="pn-bar pn-d1">■□□□</span> **Easy** · Screwdriver (often a game bit), drop-in parts, no soldering.
+</div>
 
 ## Audio
 
@@ -26,17 +38,35 @@ Backlit IPS screen, often laminated, with brightness levels and an on-screen men
 
 New amplifier board: louder and cleaner sound, less hiss.
 
+<div class="pn-rate" markdown>
+<span class="pn-k">Community</span> <span class="pn-stars pn-r4">★★★★☆</span> **Recommended** · Louder, cleaner sound; popular alongside an IPS screen.
+
+<span class="pn-k">Install</span> <span class="pn-bar pn-d2">■■□□</span> **Intermediate** · Basic soldering: a few wires or through-hole parts.
+</div>
+
 :material-account-hard-hat: by [RetroSix](https://www.retrosix.co.uk){ target=_blank } · [:material-cart: Buy](https://www.retrosix.co.uk){ target=_blank }
 
 ### Pro Sound
 
 Clean line-level audio output straight from the CPU.
 
+<div class="pn-rate" markdown>
+<span class="pn-k">Community</span> <span class="pn-stars pn-r3">★★★☆☆</span> **Good, with caveats** · For chiptune and line-out use.
+
+<span class="pn-k">Install</span> <span class="pn-bar pn-d2">■■□□</span> **Intermediate** · Basic soldering: a few wires or through-hole parts.
+</div>
+
 ## Power & battery
 
 ### CleanJuice USB-C
 
 Drop-in rechargeable battery charged by USB-C, no soldering. A green LED shows USB power.
+
+<div class="pn-rate" markdown>
+<span class="pn-k">Community</span> <span class="pn-stars pn-r4">★★★★☆</span> **Recommended** · Drop-in, no soldering. Pairs well with an IPS screen.
+
+<span class="pn-k">Install</span> <span class="pn-bar pn-d1">■□□□</span> **Easy** · Screwdriver (often a game bit), drop-in parts, no soldering.
+</div>
 
 :material-account-hard-hat: by [RetroSix](https://www.retrosix.co.uk){ target=_blank } · [:material-cart: Buy](https://www.retrosix.co.uk){ target=_blank }
 
@@ -45,6 +75,12 @@ Drop-in rechargeable battery charged by USB-C, no soldering. A green LED shows U
 ### Shell, buttons and glass lens
 
 IPS-ready shells (no trimming), coloured buttons and glass lens.
+
+<div class="pn-rate" markdown>
+<span class="pn-k">Community</span> <span class="pn-stars pn-r4">★★★★☆</span> **Recommended** · Easy and IPS-ready.
+
+<span class="pn-k">Install</span> <span class="pn-bar pn-d1">■□□□</span> **Easy** · Screwdriver (often a game bit), drop-in parts, no soldering.
+</div>
 
 !!! tip "Want a mod installed?"
     PixelNet installs mods and repairs consoles on request, even for mods not listed in the shop. Write to [support@pixelnet.ca](mailto:support@pixelnet.ca) or visit [pixelnet.ca](https://pixelnet.ca).

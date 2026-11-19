@@ -578,8 +578,8 @@ dict(slug="sony", name="Sony",
    mods={
     "games": [
      dict(n="XStation",
-          en="ODE that replaces the drive: games from microSD, faster loading, works on every model.",
-          fr="ODE qui remplace le lecteur : jeux sur microSD, chargement plus rapide, fonctionne sur tous les modèles."),
+          en="ODE that replaces the drive: games from microSD, faster loading. Fits models up to PU-18 (SCPH-550x); not later models or the PSone.",
+          fr="ODE qui remplace le lecteur : jeux sur microSD, chargement plus rapide. Pour les modèles jusqu'à PU-18 (SCPH-550x); pas les modèles plus récents ni la PSone."),
      dict(n="PicoStation",
           en="Open-source ODE, cheaper alternative to the XStation.",
           fr="ODE open source, alternative moins chère au XStation."),

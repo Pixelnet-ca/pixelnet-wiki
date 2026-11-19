@@ -16,11 +16,23 @@
 
 RetroSix IPS kit for the GBA: true-to-original colours, upgradeable from Core to Pro/Ultra through the CleanScreen app.
 
+<div class="pn-rate" markdown>
+<span class="pn-k">Community</span> <span class="pn-stars pn-r4">★★★★☆</span> **Recommended** · Drop-in with no shell cutting, very low power draw, true-to-original colour mode.
+
+<span class="pn-k">Install</span> <span class="pn-bar pn-d1">■□□□</span> **Easy** · Screwdriver (often a game bit), drop-in parts, no soldering.
+</div>
+
 :material-account-hard-hat: by [RetroSix](https://www.retrosix.co.uk){ target=_blank } · [:material-cart: Buy](https://www.retrosix.co.uk){ target=_blank }
 
 ### IPS screen kit
 
 Laminated backlit IPS with brightness and colour settings. Versions exist for the GBA and the SP.
+
+<div class="pn-rate" markdown>
+<span class="pn-k">Community</span> <span class="pn-stars pn-r5">★★★★★</span> **Must-have** · The most popular GBA mod. FunnyPlaying and Hispeedido laminated kits are widely recommended; use the matching shell.
+
+<span class="pn-k">Install</span> <span class="pn-bar pn-d1">■□□□</span> **Easy** · Screwdriver (often a game bit), drop-in parts, no soldering.
+</div>
 
 ## Audio
 
@@ -28,11 +40,23 @@ Laminated backlit IPS with brightness and colour settings. Versions exist for th
 
 Amplifier board for louder, cleaner sound. For the GBA and the GBA SP.
 
+<div class="pn-rate" markdown>
+<span class="pn-k">Community</span> <span class="pn-stars pn-r4">★★★★☆</span> **Recommended** · Fixes weak, noisy audio.
+
+<span class="pn-k">Install</span> <span class="pn-bar pn-d2">■■□□</span> **Intermediate** · Basic soldering: a few wires or through-hole parts.
+</div>
+
 :material-account-hard-hat: by [RetroSix](https://www.retrosix.co.uk){ target=_blank } · [:material-cart: Buy](https://www.retrosix.co.uk){ target=_blank }
 
 ### Wire-free dehum kit
 
 Removes the GBA's typical audio hum, without extra wiring.
+
+<div class="pn-rate" markdown>
+<span class="pn-k">Community</span> <span class="pn-stars pn-r4">★★★★☆</span> **Recommended** · Targets the GBA's well-known hum.
+
+<span class="pn-k">Install</span> <span class="pn-bar pn-d2">■■□□</span> **Intermediate** · Basic soldering: a few wires or through-hole parts.
+</div>
 
 :material-account-hard-hat: by [RetroSix](https://www.retrosix.co.uk){ target=_blank } · [:material-cart: Buy](https://www.retrosix.co.uk){ target=_blank }
 
@@ -42,11 +66,23 @@ Removes the GBA's typical audio hum, without extra wiring.
 
 Rechargeable USB battery for the GBA; the power LED turns red at about 5% battery.
 
+<div class="pn-rate" markdown>
+<span class="pn-k">Community</span> <span class="pn-stars pn-r4">★★★★☆</span> **Recommended** · Drop-in rechargeable power.
+
+<span class="pn-k">Install</span> <span class="pn-bar pn-d1">■□□□</span> **Easy** · Screwdriver (often a game bit), drop-in parts, no soldering.
+</div>
+
 :material-account-hard-hat: by [RetroSix](https://www.retrosix.co.uk){ target=_blank } · [:material-cart: Buy](https://www.retrosix.co.uk){ target=_blank }
 
 ### USB-C charging (SP)
 
 Replaces the SP's proprietary charge port with USB-C.
+
+<div class="pn-rate" markdown>
+<span class="pn-k">Community</span> <span class="pn-stars pn-r4">★★★★☆</span> **Recommended** · Ends the proprietary charger hunt.
+
+<span class="pn-k">Install</span> <span class="pn-bar pn-d2">■■□□</span> **Intermediate** · Basic soldering: a few wires or through-hole parts.
+</div>
 
 :material-account-hard-hat: by [RetroSix](https://www.retrosix.co.uk){ target=_blank } · [:material-cart: Buy](https://www.retrosix.co.uk){ target=_blank }
 
@@ -55,6 +91,12 @@ Replaces the SP's proprietary charge port with USB-C.
 ### Shell, buttons and glass lens
 
 IPS-ready shells, coloured buttons and glass lens.
+
+<div class="pn-rate" markdown>
+<span class="pn-k">Community</span> <span class="pn-stars pn-r4">★★★★☆</span> **Recommended** · Easy facelift.
+
+<span class="pn-k">Install</span> <span class="pn-bar pn-d1">■□□□</span> **Easy** · Screwdriver (often a game bit), drop-in parts, no soldering.
+</div>
 
 !!! tip "Want a mod installed?"
     PixelNet installs mods and repairs consoles on request, even for mods not listed in the shop. Write to [support@pixelnet.ca](mailto:support@pixelnet.ca) or visit [pixelnet.ca](https://pixelnet.ca).

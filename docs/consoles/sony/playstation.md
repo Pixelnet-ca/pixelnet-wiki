@@ -15,27 +15,57 @@
 
 Internal digital HDMI output with scaling and de-interlacing.
 
+<div class="pn-rate" markdown>
+<span class="pn-k">Community</span> <span class="pn-stars pn-r4">★★★★☆</span> **Recommended** · Excellent HDMI with deinterlacing. Pricey; early models already have RGB.
+
+<span class="pn-k">Install</span> <span class="pn-bar pn-d3">■■■□</span> **Advanced** · Fine soldering on small points, removing parts, cutting traces.
+</div>
+
 [:material-cart: Buy](https://www.pixelfx.co){ target=_blank }
 
 ## Games & storage
 
 ### XStation
 
-ODE that replaces the drive: games from microSD, faster loading, works on every model.
+ODE that replaces the drive: games from microSD, faster loading. Fits models up to PU-18 (SCPH-550x); not later models or the PSone.
+
+<div class="pn-rate" markdown>
+<span class="pn-k">Community</span> <span class="pn-stars pn-r5">★★★★★</span> **Must-have** · The community's top PS1 ODE, with good compatibility. Only fits models up to PU-18 (SCPH-550x). Some CD-audio glitches reported in firmware.
+
+<span class="pn-k">Install</span> <span class="pn-bar pn-d3">■■■□</span> **Advanced** · Fine soldering on small points, removing parts, cutting traces.
+</div>
 
 ### PicoStation
 
 Open-source ODE, cheaper alternative to the XStation.
 
+<div class="pn-rate" markdown>
+<span class="pn-k">Community</span> <span class="pn-stars pn-r3">★★★☆☆</span> **Good, with caveats** · Cheap and open source; development has been on and off and it's less proven than the XStation.
+
+<span class="pn-k">Install</span> <span class="pn-bar pn-d3">■■■□</span> **Advanced** · Fine soldering on small points, removing parts, cutting traces.
+</div>
+
 ### PSIO
 
 Plugs into the parallel port at the back (early models only). The drive stays in place.
+
+<div class="pn-rate" markdown>
+<span class="pn-k">Community</span> <span class="pn-stars pn-r3">★★★☆☆</span> **Good, with caveats** · Keeps the drive and fits PU-20 models the XStation can't. History of finicky firmware.
+
+<span class="pn-k">Install</span> <span class="pn-bar pn-d2">■■□□</span> **Intermediate** · Basic soldering: a few wires or through-hole parts.
+</div>
 
 ## Region & frequency
 
 ### Modchip (PSNee)
 
 Open-source modchip to play imports and backup discs.
+
+<div class="pn-rate" markdown>
+<span class="pn-k">Community</span> <span class="pn-stars pn-r4">★★★★☆</span> **Recommended** · Cheap, open source, does the job.
+
+<span class="pn-k">Install</span> <span class="pn-bar pn-d2">■■□□</span> **Intermediate** · Basic soldering: a few wires or through-hole parts.
+</div>
 
 [:material-cart: Buy](https://github.com/kalymos/PsNee){ target=_blank }
 
@@ -45,9 +75,21 @@ Open-source modchip to play imports and backup discs.
 
 Cleaning, adjusting or replacing the laser when discs skip or won't read.
 
+<div class="pn-rate" markdown>
+<span class="pn-k">Community</span> <span class="pn-stars pn-r3">★★★☆☆</span> **Good, with caveats** · Worth trying before an ODE.
+
+<span class="pn-k">Install</span> <span class="pn-bar pn-d2">■■□□</span> **Intermediate** · Basic soldering: a few wires or through-hole parts.
+</div>
+
 ### Recap
 
 Replaces the old electrolytic capacitors. Fixes or prevents hum, weak sound, dim picture and power problems.
+
+<div class="pn-rate" markdown>
+<span class="pn-k">Community</span> <span class="pn-stars pn-r3">★★★☆☆</span> **Good, with caveats** · Good care on aging units.
+
+<span class="pn-k">Install</span> <span class="pn-bar pn-d2">■■□□</span> **Intermediate** · Basic soldering: a few wires or through-hole parts.
+</div>
 
 !!! tip "Want a mod installed?"
     PixelNet installs mods and repairs consoles on request, even for mods not listed in the shop. Write to [support@pixelnet.ca](mailto:support@pixelnet.ca) or visit [pixelnet.ca](https://pixelnet.ca).

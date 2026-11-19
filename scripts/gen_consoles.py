@@ -7,14 +7,20 @@ import pathlib, re, shutil, sys
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT / "scripts"))
-from consoles_data import BRANDS, CATS, NAME_FR, MODEL_FR, MAKERS  # noqa: E402
+from consoles_data import BRANDS, CATS, NAME_FR, MODEL_FR, MAKERS
+from ratings_data import R as RATINGS, RATING_LABELS, DIFF_LABELS, SOURCES  # noqa: E402
 
 OUT = ROOT / "docs" / "consoles"
 
 L = {
     "en": dict(
         models="Models", model="Model", note="Note", console="Console", years="Years",
-        pn="PixelNet installs it", guide="Guide", ni="No install", by="by", buy="Buy",
+        pn="PixelNet installs it", guide="Guide", ni="No install", by="by", buy="Buy", community="Community", install="Install",
+        how_t="How the ratings work",
+        how=("**Community rating** (1 to 5 stars) sums up what modders say in forums, on Reddit and in reviews: how well the mod works, how reliable it is and whether it's worth it. "
+             "**Install difficulty** (0 to 4) says how hard it is to install yourself and what skills you need. "
+             "These are a guide based on public opinion, not lab tests. Mods change with new versions: if you see something out of date, write to us."),
+        sources_t="Main sources", diff_t="Difficulty levels", rate_t="Rating levels",
         makers="Mod makers", makers_b="Mods marked with a maker's name are designed by them. Buy from the maker directly: you support the people who make these mods.",
         intro="Pick a brand, then a console, to see every mod available for it, grouped by type.",
         legend=("**Legend:** :material-wrench: **PixelNet installs it** · "
@@ -30,7 +36,12 @@ L = {
     ),
     "fr": dict(
         models="Modèles", model="Modèle", note="Note", console="Console", years="Années",
-        pn="Installé par PixelNet", guide="Guide", ni="Sans installation", by="par", buy="Acheter",
+        pn="Installé par PixelNet", guide="Guide", ni="Sans installation", by="par", buy="Acheter", community="Communauté", install="Installation",
+        how_t="Comment fonctionnent les notes",
+        how=("La **note de la communauté** (1 à 5 étoiles) résume ce que disent les moddeurs sur les forums, Reddit et dans les critiques : si le mod fonctionne bien, s'il est fiable et s'il en vaut la peine. "
+             "La **difficulté d'installation** (0 à 4) indique à quel point c'est dur à installer soi-même et les compétences requises. "
+             "C'est un guide basé sur l'opinion publique, pas des tests en labo. Les mods changent avec les nouvelles versions : si quelque chose n'est plus à jour, écris-nous."),
+        sources_t="Sources principales", diff_t="Niveaux de difficulté", rate_t="Niveaux de note",
         makers="Concepteurs de mods", makers_b="Les mods marqués du nom d'un concepteur sont conçus par lui. Achète directement chez le concepteur : tu soutiens ceux qui créent ces mods.",
         intro="Choisis une marque, puis une console, pour voir tous les mods offerts, classés par type.",
         legend=("**Légende :** :material-wrench: **Installé par PixelNet** · "
@@ -86,6 +97,18 @@ def console_page(b, c, lang):
                 tags.append(f":material-power-plug: {t['ni']}")
             name = NAME_FR.get(m["n"], m["n"]) if lang == "fr" else m["n"]
             o += [f"### {name}", "", m[lang], ""]
+            rt = RATINGS.get((c["slug"], m["n"]))
+            if rt:
+                r, d, wen, wfr = rt
+                rl = RATING_LABELS[r][0 if lang == "en" else 1]
+                dl = DIFF_LABELS[d]
+                stars = "★" * r + "☆" * (5 - r)
+                bar = "■" * d + "□" * (4 - d)
+                o += [f'<div class="pn-rate" markdown>',
+                      f'<span class="pn-k">{t["community"]}</span> <span class="pn-stars pn-r{r}">{stars}</span> **{rl}** · {wen if lang == "en" else wfr}',
+                      "",
+                      f'<span class="pn-k">{t["install"]}</span> <span class="pn-bar pn-d{d}">{bar}</span> **{dl[0] if lang == "en" else dl[1]}** · {dl[2] if lang == "en" else dl[3]}',
+                      "</div>", ""]
             if tags:
                 o += [" · ".join(tags), ""]
     o += [f'!!! tip "{t["help_t"]}"', f"    {t['help']}", ""]
@@ -110,6 +133,14 @@ def index_page(lang):
         for c in b["consoles"]:
             o.append(f"- [{c['name']}]({b['slug']}/{c['slug']}.md) · *{t['mods_n'].format(n=n_mods(c))}*")
         o.append("")
+    o += [f"## {t['how_t']}", "", t["how"], "", f"**{t['rate_t']}**", ""]
+    for r in range(5, 0, -1):
+        o.append(f"- <span class=\"pn-stars pn-r{r}\">{'★'*r}{'☆'*(5-r)}</span> {RATING_LABELS[r][0 if lang=='en' else 1]}")
+    o += ["", f"**{t['diff_t']}**", ""]
+    for d in range(5):
+        dl = DIFF_LABELS[d]
+        o.append(f"- <span class=\"pn-bar pn-d{d}\">{'■'*d}{'□'*(4-d)}</span> **{dl[0] if lang=='en' else dl[1]}** · {dl[2] if lang=='en' else dl[3]}")
+    o += ["", f"**{t['sources_t']}:** " + " · ".join(f"[{n}]({u}){{ target=_blank }}" for n, u in SOURCES), ""]
     o += [f"## {t['makers']}", "", t["makers_b"], ""]
     for k, mk in MAKERS.items():
         n = sum(1 for b in BRANDS for c in b["consoles"] for v in c["mods"].values() for m in v if m.get("by") == k)

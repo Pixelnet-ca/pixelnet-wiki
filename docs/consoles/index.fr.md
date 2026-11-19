@@ -73,6 +73,28 @@ La Xbox originale.
 - [Intellivision](other/intellivision.md) · *2 mods*
 - [Vectrex](other/vectrex.md) · *2 mods*
 
+## Comment fonctionnent les notes
+
+La **note de la communauté** (1 à 5 étoiles) résume ce que disent les moddeurs sur les forums, Reddit et dans les critiques : si le mod fonctionne bien, s'il est fiable et s'il en vaut la peine. La **difficulté d'installation** (0 à 4) indique à quel point c'est dur à installer soi-même et les compétences requises. C'est un guide basé sur l'opinion publique, pas des tests en labo. Les mods changent avec les nouvelles versions : si quelque chose n'est plus à jour, écris-nous.
+
+**Niveaux de note**
+
+- <span class="pn-stars pn-r5">★★★★★</span> Incontournable
+- <span class="pn-stars pn-r4">★★★★☆</span> Recommandé
+- <span class="pn-stars pn-r3">★★★☆☆</span> Bon, avec réserves
+- <span class="pn-stars pn-r2">★★☆☆☆</span> Selon le cas
+- <span class="pn-stars pn-r1">★☆☆☆☆</span> Déconseillé
+
+**Niveaux de difficulté**
+
+- <span class="pn-bar pn-d0">□□□□</span> **Brancher et jouer** · Aucun outil, rien à ouvrir.
+- <span class="pn-bar pn-d1">■□□□</span> **Facile** · Tournevis (souvent une pointe spéciale), pièces prêtes à installer, sans soudure.
+- <span class="pn-bar pn-d2">■■□□</span> **Intermédiaire** · Soudure de base : quelques fils ou composants traversants.
+- <span class="pn-bar pn-d3">■■■□</span> **Avancé** · Soudure fine sur de petits points, retrait de composants, coupe de pistes.
+- <span class="pn-bar pn-d4">■■■■</span> **Expert** · Dessouder de grosses puces ou soulever des pattes, retouches de carte. Bons outils de dessoudage requis.
+
+**Sources principales:** [RetroRGB](https://www.retrorgb.com){ target=_blank } · [ConsoleMods Wiki](https://consolemods.org){ target=_blank } · [Shmups forum (hardware)](https://shmups.system11.org){ target=_blank } · [AtariAge forums](https://forums.atariage.com){ target=_blank } · [Dreamcast-Talk](https://www.dreamcast-talk.com){ target=_blank } · [r/consolemodding, r/n64, r/SegaSaturn, r/originalxbox, r/psx…](https://www.reddit.com/r/consolemodding/){ target=_blank } · [My Life in Gaming](https://www.youtube.com/@mylifeingaming){ target=_blank } · [Time Extension](https://www.timeextension.com){ target=_blank }
+
 ## Concepteurs de mods
 
 Les mods marqués du nom d'un concepteur sont conçus par lui. Achète directement chez le concepteur : tu soutiens ceux qui créent ces mods.

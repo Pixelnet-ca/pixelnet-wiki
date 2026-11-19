@@ -73,6 +73,28 @@ The original Xbox.
 - [Intellivision](other/intellivision.md) · *2 mods*
 - [Vectrex](other/vectrex.md) · *2 mods*
 
+## How the ratings work
+
+**Community rating** (1 to 5 stars) sums up what modders say in forums, on Reddit and in reviews: how well the mod works, how reliable it is and whether it's worth it. **Install difficulty** (0 to 4) says how hard it is to install yourself and what skills you need. These are a guide based on public opinion, not lab tests. Mods change with new versions: if you see something out of date, write to us.
+
+**Rating levels**
+
+- <span class="pn-stars pn-r5">★★★★★</span> Must-have
+- <span class="pn-stars pn-r4">★★★★☆</span> Recommended
+- <span class="pn-stars pn-r3">★★★☆☆</span> Good, with caveats
+- <span class="pn-stars pn-r2">★★☆☆☆</span> Situational
+- <span class="pn-stars pn-r1">★☆☆☆☆</span> Not recommended
+
+**Difficulty levels**
+
+- <span class="pn-bar pn-d0">□□□□</span> **Plug and play** · No tools, nothing to open.
+- <span class="pn-bar pn-d1">■□□□</span> **Easy** · Screwdriver (often a game bit), drop-in parts, no soldering.
+- <span class="pn-bar pn-d2">■■□□</span> **Intermediate** · Basic soldering: a few wires or through-hole parts.
+- <span class="pn-bar pn-d3">■■■□</span> **Advanced** · Fine soldering on small points, removing parts, cutting traces.
+- <span class="pn-bar pn-d4">■■■■</span> **Expert** · Desoldering large chips or lifting chip pins, board rework. Good desoldering tools needed.
+
+**Main sources:** [RetroRGB](https://www.retrorgb.com){ target=_blank } · [ConsoleMods Wiki](https://consolemods.org){ target=_blank } · [Shmups forum (hardware)](https://shmups.system11.org){ target=_blank } · [AtariAge forums](https://forums.atariage.com){ target=_blank } · [Dreamcast-Talk](https://www.dreamcast-talk.com){ target=_blank } · [r/consolemodding, r/n64, r/SegaSaturn, r/originalxbox, r/psx…](https://www.reddit.com/r/consolemodding/){ target=_blank } · [My Life in Gaming](https://www.youtube.com/@mylifeingaming){ target=_blank } · [Time Extension](https://www.timeextension.com){ target=_blank }
+
 ## Mod makers
 
 Mods marked with a maker's name are designed by them. Buy from the maker directly: you support the people who make these mods.
