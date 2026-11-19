@@ -67,6 +67,7 @@ plugins:
             General: Général
             Which scaler?: Quel scaler ?
             Glossary: Lexique
+            Other consoles: Autres consoles
 
 markdown_extensions:
   - admonition
@@ -95,8 +96,49 @@ nav:
           - CleanRGB + EdgeBuster: guides/snes-cleanrgb-edgebuster.md
   - Consoles:
       - consoles/index.md
-      - Nintendo: consoles/nintendo.md
-      - Sega: consoles/sega.md
-      - Sony: consoles/sony.md
-      - Atari: consoles/atari.md
+      - Nintendo:
+          - consoles/nintendo/index.md
+          - "NES / Famicom": consoles/nintendo/nes.md
+          - "Super Nintendo / Super Famicom": consoles/nintendo/snes.md
+          - "Nintendo 64": consoles/nintendo/n64.md
+          - "GameCube": consoles/nintendo/gamecube.md
+          - "Wii": consoles/nintendo/wii.md
+          - "Game Boy / Game Boy Pocket": consoles/nintendo/game-boy.md
+          - "Game Boy Color": consoles/nintendo/game-boy-color.md
+          - "Game Boy Advance / SP": consoles/nintendo/game-boy-advance.md
+      - Sega:
+          - consoles/sega/index.md
+          - "Master System": consoles/sega/master-system.md
+          - "Genesis / Mega Drive": consoles/sega/genesis.md
+          - "Saturn": consoles/sega/saturn.md
+          - "Dreamcast": consoles/sega/dreamcast.md
+          - "Game Gear": consoles/sega/game-gear.md
+      - Sony:
+          - consoles/sony/index.md
+          - "PlayStation": consoles/sony/playstation.md
+          - "PlayStation 2": consoles/sony/playstation-2.md
+          - "PSP": consoles/sony/psp.md
+      - Atari:
+          - consoles/atari/index.md
+          - "Atari 2600": consoles/atari/2600.md
+          - "Atari 5200": consoles/atari/5200.md
+          - "Atari 7800": consoles/atari/7800.md
+          - "Atari Lynx": consoles/atari/lynx.md
+          - "Atari Jaguar": consoles/atari/jaguar.md
+      - NEC:
+          - consoles/nec/index.md
+          - "TurboGrafx-16 / PC Engine": consoles/nec/turbografx-16.md
+      - SNK:
+          - consoles/snk/index.md
+          - "Neo Geo AES / MVS / CD": consoles/snk/neo-geo.md
+          - "Neo Geo Pocket Color": consoles/snk/neo-geo-pocket-color.md
+      - Microsoft:
+          - consoles/microsoft/index.md
+          - "Xbox (original)": consoles/microsoft/xbox.md
+      - Other consoles:
+          - consoles/other/index.md
+          - "3DO": consoles/other/3do.md
+          - "ColecoVision": consoles/other/colecovision.md
+          - "Intellivision": consoles/other/intellivision.md
+          - "Vectrex": consoles/other/vectrex.md
   - Glossary: glossary.md
