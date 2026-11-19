@@ -7,13 +7,15 @@
 | **SCPH-1001 to 9001** | Grey PlayStation |
 | **SCPH-101** | PSone |
 
-**Legend:** :material-wrench: **PixelNet installs it** · :material-book-open-variant: **Guide** on this wiki · :material-power-plug: **No install** (cart, adapter or software)
+**Legend:** :material-wrench: **PixelNet installs it** · :material-book-open-variant: **Guide** on this wiki · :material-power-plug: **No install** (cart, adapter or software) · :material-cart: **Buy** from the official source
 
 ## Video
 
 ### PS1Digital (PixelFX)
 
 Internal digital HDMI output with scaling and de-interlacing.
+
+[:material-cart: Buy](https://www.pixelfx.co){ target=_blank }
 
 ## Games & storage
 
@@ -34,6 +36,8 @@ Plugs into the parallel port at the back (early models only). The drive stays in
 ### Modchip (PSNee)
 
 Open-source modchip to play imports and backup discs.
+
+[:material-cart: Buy](https://github.com/kalymos/PsNee){ target=_blank }
 
 ## Maintenance & reliability
 

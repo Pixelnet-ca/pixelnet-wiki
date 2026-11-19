@@ -8,9 +8,15 @@
 | **PC Engine / Core Grafx** | Japan |
 | **TurboDuo / PC Engine Duo** | Console + CD in one |
 
-**Legend:** :material-wrench: **PixelNet installs it** · :material-book-open-variant: **Guide** on this wiki · :material-power-plug: **No install** (cart, adapter or software)
+**Legend:** :material-wrench: **PixelNet installs it** · :material-book-open-variant: **Guide** on this wiki · :material-power-plug: **No install** (cart, adapter or software) · :material-cart: **Buy** from the official source
 
 ## Video
+
+### PC-E DuoRGB
+
+RGB kit for the Turbo Duo, Duo-R, Duo-RX and SuperGrafx.
+
+:material-account-hard-hat: by [Voultar](https://voultar.com/index.php?route=product/category&path=59){ target=_blank } · [:material-cart: Buy](https://voultar.com/index.php?route=product/category&path=59){ target=_blank }
 
 ### RGB mod
 
@@ -22,13 +28,13 @@ Internal amplifier board for a sharp RGB output.
 
 Flash HuCard.
 
-:material-power-plug: No install
+[:material-cart: Buy](https://krikzz.com){ target=_blank } · :material-power-plug: No install
 
 ### Super SD System 3
 
 Plugs into the expansion port and plays CD games from an SD card, no CD drive needed.
 
-:material-power-plug: No install
+[:material-cart: Buy](https://www.terraonion.com){ target=_blank } · :material-power-plug: No install
 
 ## Region & frequency
 

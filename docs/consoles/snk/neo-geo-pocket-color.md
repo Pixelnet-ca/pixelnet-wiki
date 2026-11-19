@@ -6,7 +6,7 @@
 |---|---|
 | **NEOP1000x** | Neo Geo Pocket Color |
 
-**Legend:** :material-wrench: **PixelNet installs it** · :material-book-open-variant: **Guide** on this wiki · :material-power-plug: **No install** (cart, adapter or software)
+**Legend:** :material-wrench: **PixelNet installs it** · :material-book-open-variant: **Guide** on this wiki · :material-power-plug: **No install** (cart, adapter or software) · :material-cart: **Buy** from the official source
 
 ## Screen
 

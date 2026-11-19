@@ -8,9 +8,15 @@
 | **AGS-001** | GBA SP, éclairage avant |
 | **AGS-101** | GBA SP, rétroéclairée |
 
-**Légende :** :material-wrench: **Installé par PixelNet** · :material-book-open-variant: **Guide** sur ce wiki · :material-power-plug: **Sans installation** (cartouche, adaptateur ou logiciel)
+**Légende :** :material-wrench: **Installé par PixelNet** · :material-book-open-variant: **Guide** sur ce wiki · :material-power-plug: **Sans installation** (cartouche, adaptateur ou logiciel) · :material-cart: **Acheter** à la source officielle
 
 ## Écran
+
+### CleanScreen IPS
+
+Trousse IPS RetroSix pour la GBA : couleurs fidèles à l'original, évolutive de Core à Pro/Ultra avec l'appli CleanScreen.
+
+:material-account-hard-hat: par [RetroSix](https://www.retrosix.co.uk){ target=_blank } · [:material-cart: Acheter](https://www.retrosix.co.uk){ target=_blank }
 
 ### Trousse d'écran IPS
 
@@ -18,15 +24,31 @@ IPS rétroéclairé laminé avec réglages de luminosité et de couleurs. Il exi
 
 ## Audio
 
-### Carte d'ampli audio
+### CleanAmp
 
-Règle le grésillement et le son faible avec un nouvel amplificateur.
+Carte d'amplificateur pour un son plus fort et plus propre. Pour la GBA et la GBA SP.
+
+:material-account-hard-hat: par [RetroSix](https://www.retrosix.co.uk){ target=_blank } · [:material-cart: Acheter](https://www.retrosix.co.uk){ target=_blank }
+
+### Trousse anti-bourdonnement sans fils
+
+Élimine le bourdonnement audio typique de la GBA, sans fils à ajouter.
+
+:material-account-hard-hat: par [RetroSix](https://www.retrosix.co.uk){ target=_blank } · [:material-cart: Acheter](https://www.retrosix.co.uk){ target=_blank }
 
 ## Alimentation et batterie
 
-### Pile rechargeable USB-C
+### CleanJuice
 
-Trousse de pile USB-C pour la GBA; port de recharge USB-C pour la SP.
+Pile rechargeable USB pour la GBA; le voyant devient rouge vers 5 % de pile.
+
+:material-account-hard-hat: par [RetroSix](https://www.retrosix.co.uk){ target=_blank } · [:material-cart: Acheter](https://www.retrosix.co.uk){ target=_blank }
+
+### Recharge USB-C (SP)
+
+Remplace le port de recharge propriétaire de la SP par de l'USB-C.
+
+:material-account-hard-hat: par [RetroSix](https://www.retrosix.co.uk){ target=_blank } · [:material-cart: Acheter](https://www.retrosix.co.uk){ target=_blank }
 
 ## Boîtier et boutons
 

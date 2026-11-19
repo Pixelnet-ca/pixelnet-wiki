@@ -2,30 +2,30 @@
 
 Choisis une marque, puis une console, pour voir tous les mods offerts, classés par type.
 
-**Légende :** :material-wrench: **Installé par PixelNet** · :material-book-open-variant: **Guide** sur ce wiki · :material-power-plug: **Sans installation** (cartouche, adaptateur ou logiciel)
+**Légende :** :material-wrench: **Installé par PixelNet** · :material-book-open-variant: **Guide** sur ce wiki · :material-power-plug: **Sans installation** (cartouche, adaptateur ou logiciel) · :material-cart: **Acheter** à la source officielle
 
 ## [Nintendo](nintendo/index.md)
 
 Consoles de salon et portables, de la NES à la Wii.
 
-- [NES / Famicom](nintendo/nes.md) · *8 mods*
-- [Super Nintendo / Super Famicom](nintendo/snes.md) · *7 mods*
-- [Nintendo 64](nintendo/n64.md) · *6 mods*
+- [NES / Famicom](nintendo/nes.md) · *9 mods*
+- [Super Nintendo / Super Famicom](nintendo/snes.md) · *9 mods*
+- [Nintendo 64](nintendo/n64.md) · *7 mods*
 - [GameCube](nintendo/gamecube.md) · *5 mods*
 - [Wii](nintendo/wii.md) · *4 mods*
-- [Game Boy / Game Boy Pocket](nintendo/game-boy.md) · *7 mods*
-- [Game Boy Color](nintendo/game-boy-color.md) · *5 mods*
-- [Game Boy Advance / SP](nintendo/game-boy-advance.md) · *4 mods*
+- [Game Boy / Game Boy Pocket](nintendo/game-boy.md) · *9 mods*
+- [Game Boy Color](nintendo/game-boy-color.md) · *6 mods*
+- [Game Boy Advance / SP](nintendo/game-boy-advance.md) · *7 mods*
 
 ## [Sega](sega/index.md)
 
 De la Master System à la Dreamcast, plus la Game Gear.
 
-- [Master System](sega/master-system.md) · *5 mods*
-- [Genesis / Mega Drive](sega/genesis.md) · *8 mods*
-- [Saturn](sega/saturn.md) · *6 mods*
+- [Master System](sega/master-system.md) · *6 mods*
+- [Genesis / Mega Drive](sega/genesis.md) · *12 mods*
+- [Saturn](sega/saturn.md) · *9 mods*
 - [Dreamcast](sega/dreamcast.md) · *7 mods*
-- [Game Gear](sega/game-gear.md) · *4 mods*
+- [Game Gear](sega/game-gear.md) · *10 mods*
 
 ## [Sony](sony/index.md)
 
@@ -39,23 +39,23 @@ PlayStation, PlayStation 2 et PSP.
 
 De la 2600 à la Jaguar, plus la portable Lynx.
 
-- [Atari 2600](atari/2600.md) · *4 mods*
-- [Atari 5200](atari/5200.md) · *3 mods*
+- [Atari 2600](atari/2600.md) · *6 mods*
+- [Atari 5200](atari/5200.md) · *4 mods*
 - [Atari 7800](atari/7800.md) · *3 mods*
-- [Atari Lynx](atari/lynx.md) · *3 mods*
-- [Atari Jaguar](atari/jaguar.md) · *4 mods*
+- [Atari Lynx](atari/lynx.md) · *5 mods*
+- [Atari Jaguar](atari/jaguar.md) · *5 mods*
 
 ## [NEC](nec/index.md)
 
 PC Engine et TurboGrafx-16, avec leurs périphériques CD.
 
-- [TurboGrafx-16 / PC Engine](nec/turbografx-16.md) · *6 mods*
+- [TurboGrafx-16 / PC Engine](nec/turbografx-16.md) · *7 mods*
 
 ## [SNK](snk/index.md)
 
 Les Neo Geo de salon, d'arcade et de poche.
 
-- [Neo Geo AES / MVS / CD](snk/neo-geo.md) · *4 mods*
+- [Neo Geo AES / MVS / CD](snk/neo-geo.md) · *6 mods*
 - [Neo Geo Pocket Color](snk/neo-geo-pocket-color.md) · *4 mods*
 
 ## [Microsoft](microsoft/index.md)
@@ -72,6 +72,14 @@ La Xbox originale.
 - [ColecoVision](other/colecovision.md) · *3 mods*
 - [Intellivision](other/intellivision.md) · *2 mods*
 - [Vectrex](other/vectrex.md) · *2 mods*
+
+## Concepteurs de mods
+
+Les mods marqués du nom d'un concepteur sont conçus par lui. Achète directement chez le concepteur : tu soutiens ceux qui créent ces mods.
+
+- [**RetroSix**](https://www.retrosix.co.uk){ target=_blank } (R.-U.) · *35 mods* · [:material-cart: Acheter](https://www.retrosix.co.uk){ target=_blank }
+- [**Voultar**](https://voultar.com/index.php?route=product/category&path=59){ target=_blank } (É.-U.) · *5 mods* · [:material-cart: Acheter](https://voultar.com/index.php?route=product/category&path=59){ target=_blank }
+- [**Tim Worthington**](https://etim.net.au){ target=_blank } (Australie) · *5 mods* · [:material-cart: Acheter](https://etim.net.au/shop/shop.php){ target=_blank }
 
 !!! info "Tu ne sais pas par où commencer ?"
     Pour la plupart des consoles : d'abord un **recap** si elle est vieille, ensuite la **vidéo** (RGB ou HDMI), puis **jeux et stockage**.

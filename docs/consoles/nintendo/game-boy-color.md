@@ -6,9 +6,15 @@
 |---|---|
 | **CGB-001** | Game Boy Color |
 
-**Legend:** :material-wrench: **PixelNet installs it** · :material-book-open-variant: **Guide** on this wiki · :material-power-plug: **No install** (cart, adapter or software)
+**Legend:** :material-wrench: **PixelNet installs it** · :material-book-open-variant: **Guide** on this wiki · :material-power-plug: **No install** (cart, adapter or software) · :material-cart: **Buy** from the official source
 
 ## Screen
+
+### IPS screen (RetroSix)
+
+RetroSix backlit IPS screen kit for the Game Boy Color.
+
+:material-account-hard-hat: by [RetroSix](https://www.retrosix.co.uk){ target=_blank } · [:material-cart: Buy](https://www.retrosix.co.uk){ target=_blank }
 
 ### IPS screen kit
 
@@ -16,9 +22,11 @@ Backlit IPS screen, often laminated, with brightness levels and an on-screen men
 
 ## Audio
 
-### Audio amp (e.g. RetroSix CleanAmp)
+### CleanAmp
 
 New amplifier board: louder and cleaner sound, less hiss.
+
+:material-account-hard-hat: by [RetroSix](https://www.retrosix.co.uk){ target=_blank } · [:material-cart: Buy](https://www.retrosix.co.uk){ target=_blank }
 
 ### Pro Sound
 
@@ -26,9 +34,11 @@ Clean line-level audio output straight from the CPU.
 
 ## Power & battery
 
-### USB-C rechargeable battery
+### CleanJuice USB-C
 
-Li-ion battery kit charged by USB-C.
+Drop-in rechargeable battery charged by USB-C, no soldering. A green LED shows USB power.
+
+:material-account-hard-hat: by [RetroSix](https://www.retrosix.co.uk){ target=_blank } · [:material-cart: Buy](https://www.retrosix.co.uk){ target=_blank }
 
 ## Shell & buttons
 

@@ -7,9 +7,15 @@
 | **DMG-01** | Game Boy original |
 | **MGB-001** | Game Boy Pocket |
 
-**Légende :** :material-wrench: **Installé par PixelNet** · :material-book-open-variant: **Guide** sur ce wiki · :material-power-plug: **Sans installation** (cartouche, adaptateur ou logiciel)
+**Légende :** :material-wrench: **Installé par PixelNet** · :material-book-open-variant: **Guide** sur ce wiki · :material-power-plug: **Sans installation** (cartouche, adaptateur ou logiciel) · :material-cart: **Acheter** à la source officielle
 
 ## Écran
+
+### CleanScreen IPS
+
+Trousse IPS RetroSix : remplace la carte avant par un écran IPS rétroéclairé avec modes de palette. Facile pour débuter.
+
+:material-account-hard-hat: par [RetroSix](https://www.retrosix.co.uk){ target=_blank } · [:material-cart: Acheter](https://www.retrosix.co.uk){ target=_blank }
 
 ### Trousse d'écran IPS
 
@@ -25,15 +31,23 @@ Méthode plus ancienne : un rétroéclairage derrière l'écran d'origine, avec 
 
 Prend le son directement du processeur pour une sortie ligne propre. Un favori des musiciens chiptune.
 
-### Haut-parleur / ampli amélioré
+### CleanAmp
 
-Un haut-parleur et un amplificateur plus forts et plus clairs.
+Carte d'amplificateur qui monte le son original, trop faible, à un niveau utilisable. Pour la Game Boy et la Game Boy Pocket.
+
+:material-account-hard-hat: par [RetroSix](https://www.retrosix.co.uk){ target=_blank } · [:material-cart: Acheter](https://www.retrosix.co.uk){ target=_blank }
 
 ## Alimentation et batterie
 
 ### Pile rechargeable USB-C
 
 Trousse de pile Li-ion qui se recharge par USB-C, au lieu des piles AA.
+
+### CleanPower
+
+Carte d'alimentation moderne de remplacement pour la Game Boy originale.
+
+:material-account-hard-hat: par [RetroSix](https://www.retrosix.co.uk){ target=_blank } · [:material-cart: Acheter](https://www.retrosix.co.uk){ target=_blank }
 
 ## Entretien et fiabilité
 

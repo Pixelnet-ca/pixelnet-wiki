@@ -8,7 +8,15 @@
 | **MVS** | Carte d'arcade |
 | **Neo Geo CD / CDZ** | Sur CD |
 
-**Légende :** :material-wrench: **Installé par PixelNet** · :material-book-open-variant: **Guide** sur ce wiki · :material-power-plug: **Sans installation** (cartouche, adaptateur ou logiciel)
+**Légende :** :material-wrench: **Installé par PixelNet** · :material-book-open-variant: **Guide** sur ce wiki · :material-power-plug: **Sans installation** (cartouche, adaptateur ou logiciel) · :material-cart: **Acheter** à la source officielle
+
+## Vidéo
+
+### CleanRGB
+
+Carte RGB active pour l'AES : signal propre dès la source.
+
+:material-account-hard-hat: par [RetroSix](https://www.retrosix.co.uk){ target=_blank } · [:material-cart: Acheter](https://www.retrosix.co.uk){ target=_blank }
 
 ## Améliorations et fonctions
 
@@ -16,9 +24,19 @@
 
 BIOS de remplacement : changement de région et de mode, codes de triche, test sonore et plus.
 
+[:material-cart: Acheter](http://unibios.free.fr){ target=_blank }
+
 ### Conversion MVS en console
 
 Transforme une carte d'arcade MVS en console de salon avec ports de manette et sortie A/V.
+
+## Alimentation et batterie
+
+### CleanPower USB-C
+
+Alimente l'AES par USB-C.
+
+:material-account-hard-hat: par [RetroSix](https://www.retrosix.co.uk){ target=_blank } · [:material-cart: Acheter](https://www.retrosix.co.uk){ target=_blank }
 
 ## Entretien et fiabilité
 

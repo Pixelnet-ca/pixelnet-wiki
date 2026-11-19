@@ -7,7 +7,7 @@
 | **SCPH-3000x to 5000x** | Fat: internal HDD with network adapter |
 | **SCPH-7000x to 9000x** | Slim |
 
-**Legend:** :material-wrench: **PixelNet installs it** · :material-book-open-variant: **Guide** on this wiki · :material-power-plug: **No install** (cart, adapter or software)
+**Legend:** :material-wrench: **PixelNet installs it** · :material-book-open-variant: **Guide** on this wiki · :material-power-plug: **No install** (cart, adapter or software) · :material-cart: **Buy** from the official source
 
 ## Games & storage
 

@@ -7,7 +7,7 @@
 | **RVL-001** | Avec ports GameCube |
 | **RVL-101 / RVL-201** | Family / Mini : pas de GameCube |
 
-**Légende :** :material-wrench: **Installé par PixelNet** · :material-book-open-variant: **Guide** sur ce wiki · :material-power-plug: **Sans installation** (cartouche, adaptateur ou logiciel)
+**Légende :** :material-wrench: **Installé par PixelNet** · :material-book-open-variant: **Guide** sur ce wiki · :material-power-plug: **Sans installation** (cartouche, adaptateur ou logiciel) · :material-cart: **Acheter** à la source officielle
 
 ## Vidéo
 

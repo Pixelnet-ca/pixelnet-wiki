@@ -8,7 +8,7 @@
 | **SNS-101** | SNES Jr / Mini: no RGB stock |
 | **SHVC-001** | Super Famicom (Japan) |
 
-**Legend:** :material-wrench: **PixelNet installs it** · :material-book-open-variant: **Guide** on this wiki · :material-power-plug: **No install** (cart, adapter or software)
+**Legend:** :material-wrench: **PixelNet installs it** · :material-book-open-variant: **Guide** on this wiki · :material-power-plug: **No install** (cart, adapter or software) · :material-cart: **Buy** from the official source
 
 ## Video
 
@@ -16,11 +16,19 @@
 
 Rebuilds the RGB signal and removes ghosting and blurry pixel edges. Huge gain on 2-chip boards.
 
-:material-wrench: **PixelNet installs it** · [:material-book-open-variant: Guide](../../guides/snes-cleanrgb-edgebuster.md)
+:material-wrench: **PixelNet installs it** · [:material-book-open-variant: Guide](../../guides/snes-cleanrgb-edgebuster.md) · :material-account-hard-hat: by [RetroSix](https://www.retrosix.co.uk){ target=_blank } · [:material-cart: Buy](https://www.retrosix.co.uk){ target=_blank }
 
-### SNES Jr RGB restore
+### SNES Edge-Enhancer
 
-Adds an RGB amplifier to the SNS-101, which had RGB removed at the factory.
+2-chip SNES: recovers the sharpness lost in the video circuit, close to 1CHIP quality. Improves RGB, S-Video and composite. A recap is strongly recommended first.
+
+:material-account-hard-hat: by [Voultar](https://voultar.com/index.php?route=product/category&path=59){ target=_blank } · [:material-cart: Buy](https://voultar.com/index.php?route=product/category&path=59){ target=_blank }
+
+### SNESRGB (bypass)
+
+RGB bypass amplifier: cleaner RGB on 1CHIP consoles, and brings RGB back on the SNES Jr. A 2-chip version is paired with the Edge-Enhancer.
+
+:material-account-hard-hat: by [Voultar](https://voultar.com/index.php?route=product/category&path=59){ target=_blank } · [:material-cart: Buy](https://voultar.com/index.php?route=product/category&path=59){ target=_blank }
 
 ## Games & storage
 
@@ -28,7 +36,13 @@ Adds an RGB amplifier to the SNS-101, which had RGB removed at the factory.
 
 Flash cartridge with support for enhancement chips (Super FX, SA-1…) and save states.
 
-:material-power-plug: No install
+[:material-cart: Buy](https://krikzz.com){ target=_blank } · :material-power-plug: No install
+
+### SNES 8 Megabitz / Super Stacker
+
+Reprogrammable memory that replaces a cartridge's ROM, for example to put a translation patch on your own original cart.
+
+:material-account-hard-hat: by [Voultar](https://voultar.com/index.php?route=product/category&path=59){ target=_blank } · [:material-cart: Buy](https://voultar.com/index.php?route=product/category&path=59){ target=_blank }
 
 ## Region & frequency
 

@@ -8,7 +8,7 @@
 | **NES-101** | Top-loader, RF only |
 | **HVC-001 / HVC-101** | Famicom / AV Famicom (Japan) |
 
-**Legend:** :material-wrench: **PixelNet installs it** · :material-book-open-variant: **Guide** on this wiki · :material-power-plug: **No install** (cart, adapter or software)
+**Legend:** :material-wrench: **PixelNet installs it** · :material-book-open-variant: **Guide** on this wiki · :material-power-plug: **No install** (cart, adapter or software) · :material-cart: **Buy** from the official source
 
 ## Video
 
@@ -20,7 +20,9 @@ RGB, S-Video and clean composite straight from the PPU, 8 palettes and in-game r
 
 ### NESRGB
 
-Board that sits under the PPU and adds RGB with selectable palettes. Often paired with a multi-out so you can use SNES cables.
+Board that sits under the PPU and adds RGB with selectable palettes (6 on the 2022 version), plus dejitter for better scaler compatibility. Often paired with a multi-out so you can use SNES cables.
+
+:material-account-hard-hat: by [Tim Worthington](https://etim.net.au){ target=_blank } · [:material-cart: Buy](https://etim.net.au/shop/shop.php){ target=_blank }
 
 ### Hi-Def NES
 
@@ -42,9 +44,15 @@ Wires the expansion port so Famicom expansion sound chips (VRC6, etc.) play thro
 
 Flash cartridge: your whole library on an SD card, with save states and expansion audio.
 
-:material-power-plug: No install
+[:material-cart: Buy](https://krikzz.com){ target=_blank } · :material-power-plug: No install
 
 ## Region & frequency
+
+### Region Free (RetroSix)
+
+RetroSix kit to play cartridges from any region on your NES.
+
+:material-account-hard-hat: by [RetroSix](https://www.retrosix.co.uk){ target=_blank } · [:material-cart: Buy](https://www.retrosix.co.uk){ target=_blank }
 
 ### 10NES disable (CIC)
 

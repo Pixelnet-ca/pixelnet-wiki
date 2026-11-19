@@ -7,7 +7,7 @@
 | **J8001** | NTSC |
 | **Jaguar CD** | Périphérique CD |
 
-**Légende :** :material-wrench: **Installé par PixelNet** · :material-book-open-variant: **Guide** sur ce wiki · :material-power-plug: **Sans installation** (cartouche, adaptateur ou logiciel)
+**Légende :** :material-wrench: **Installé par PixelNet** · :material-book-open-variant: **Guide** sur ce wiki · :material-power-plug: **Sans installation** (cartouche, adaptateur ou logiciel) · :material-cart: **Acheter** à la source officielle
 
 ## Jeux et stockage
 
@@ -24,6 +24,12 @@ Cartouche flash : jeux en cartouche sur carte SD.
 BIOS de remplacement pour envoyer du homebrew depuis un ordinateur.
 
 ## Région et fréquence
+
+### BIOS sans région
+
+BIOS de remplacement pour jouer aux jeux de toutes les régions.
+
+:material-account-hard-hat: par [RetroSix](https://www.retrosix.co.uk){ target=_blank } · [:material-cart: Acheter](https://www.retrosix.co.uk){ target=_blank }
 
 ### Sélecteur 50/60 Hz (PAL)
 

@@ -7,7 +7,7 @@
 | **Modèle 1** | Boutons ovales |
 | **Modèle 2** | Boutons ronds |
 
-**Légende :** :material-wrench: **Installé par PixelNet** · :material-book-open-variant: **Guide** sur ce wiki · :material-power-plug: **Sans installation** (cartouche, adaptateur ou logiciel)
+**Légende :** :material-wrench: **Installé par PixelNet** · :material-book-open-variant: **Guide** sur ce wiki · :material-power-plug: **Sans installation** (cartouche, adaptateur ou logiciel) · :material-cart: **Acheter** à la source officielle
 
 ## Jeux et stockage
 
@@ -15,15 +15,25 @@
 
 ODE qui se branche sur le connecteur du lecteur : jeux sur carte SD, le lecteur reste en place.
 
+[:material-cart: Acheter](https://www.satiator.net){ target=_blank }
+
 ### Rhea / Phoebe
 
 ODE qui remplace le lecteur et charge sur carte SD (Rhea pour le modèle 1, Phoebe pour le modèle 2).
+
+[:material-cart: Acheter](https://www.terraonion.com){ target=_blank }
 
 ### Fenrir
 
 ODE économique qui remplace la carte du lecteur.
 
 ## Région et fréquence
+
+### BIOS sans région
+
+BIOS de remplacement pour jouer aux jeux de toutes les régions.
+
+:material-account-hard-hat: par [RetroSix](https://www.retrosix.co.uk){ target=_blank } · [:material-cart: Acheter](https://www.retrosix.co.uk){ target=_blank }
 
 ### Sélecteur de région et 50/60 Hz
 
@@ -34,6 +44,18 @@ Joue aux jeux japonais et européens sur une Saturn nord-américaine, en 50 ou 6
 ### Pile d'horloge
 
 Remplace la pile CR2032 pour garder l'horloge et les sauvegardes. Facile, sans soudure.
+
+### FRAM
+
+Remplace la mémoire de sauvegarde interne par de la FRAM : les sauvegardes survivent sans pile.
+
+:material-account-hard-hat: par [RetroSix](https://www.retrosix.co.uk){ target=_blank } · [:material-cart: Acheter](https://www.retrosix.co.uk){ target=_blank }
+
+### CleanPower
+
+Carte d'alimentation moderne de remplacement pour la Saturn.
+
+:material-account-hard-hat: par [RetroSix](https://www.retrosix.co.uk){ target=_blank } · [:material-cart: Acheter](https://www.retrosix.co.uk){ target=_blank }
 
 ## Entretien et fiabilité
 

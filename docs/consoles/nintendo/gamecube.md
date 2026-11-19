@@ -7,13 +7,15 @@
 | **DOL-001** | Has the Digital AV port |
 | **DOL-101** | No Digital AV port |
 
-**Legend:** :material-wrench: **PixelNet installs it** · :material-book-open-variant: **Guide** on this wiki · :material-power-plug: **No install** (cart, adapter or software)
+**Legend:** :material-wrench: **PixelNet installs it** · :material-book-open-variant: **Guide** on this wiki · :material-power-plug: **No install** (cart, adapter or software) · :material-cart: **Buy** from the official source
 
 ## Video
 
 ### GCVideo HDMI
 
 Open-source firmware that turns the digital video into clean HDMI. Plug-in on DOL-001 (Digital AV port), internal install on DOL-101.
+
+[:material-cart: Buy](https://github.com/ikorb/gcvideo){ target=_blank }
 
 ## Games & storage
 
@@ -32,6 +34,8 @@ SD card adapter in Serial Port 2 (DOL-001). Used with Swiss to load games and ho
 ### PicoBoot
 
 Small board on the IPL chip that boots Swiss (homebrew) automatically at power-on.
+
+[:material-cart: Buy](https://github.com/webhdx/PicoBoot){ target=_blank }
 
 ## Maintenance & reliability
 

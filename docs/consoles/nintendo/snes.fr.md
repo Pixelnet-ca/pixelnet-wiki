@@ -8,7 +8,7 @@
 | **SNS-101** | SNES Jr / Mini : pas de RGB d'origine |
 | **SHVC-001** | Super Famicom (Japon) |
 
-**Légende :** :material-wrench: **Installé par PixelNet** · :material-book-open-variant: **Guide** sur ce wiki · :material-power-plug: **Sans installation** (cartouche, adaptateur ou logiciel)
+**Légende :** :material-wrench: **Installé par PixelNet** · :material-book-open-variant: **Guide** sur ce wiki · :material-power-plug: **Sans installation** (cartouche, adaptateur ou logiciel) · :material-cart: **Acheter** à la source officielle
 
 ## Vidéo
 
@@ -16,11 +16,19 @@
 
 Refait le signal RGB et enlève le ghosting et les contours flous des pixels. Gain énorme sur les cartes 2 puces.
 
-:material-wrench: **Installé par PixelNet** · [:material-book-open-variant: Guide](../../guides/snes-cleanrgb-edgebuster.md)
+:material-wrench: **Installé par PixelNet** · [:material-book-open-variant: Guide](../../guides/snes-cleanrgb-edgebuster.md) · :material-account-hard-hat: par [RetroSix](https://www.retrosix.co.uk){ target=_blank } · [:material-cart: Acheter](https://www.retrosix.co.uk){ target=_blank }
 
-### Retour du RGB sur la SNES Jr
+### SNES Edge-Enhancer
 
-Ajoute un amplificateur RGB à la SNS-101, à qui on avait enlevé le RGB en usine.
+SNES 2 puces : récupère la netteté perdue dans le circuit vidéo, près de la qualité 1CHIP. Améliore le RGB, le S-Video et le composite. Un recap est fortement conseillé avant.
+
+:material-account-hard-hat: par [Voultar](https://voultar.com/index.php?route=product/category&path=59){ target=_blank } · [:material-cart: Acheter](https://voultar.com/index.php?route=product/category&path=59){ target=_blank }
+
+### SNESRGB (bypass)
+
+Amplificateur RGB bypass : RGB plus propre sur les consoles 1CHIP, et ramène le RGB sur la SNES Jr. Une version 2 puces se jumelle à l'Edge-Enhancer.
+
+:material-account-hard-hat: par [Voultar](https://voultar.com/index.php?route=product/category&path=59){ target=_blank } · [:material-cart: Acheter](https://voultar.com/index.php?route=product/category&path=59){ target=_blank }
 
 ## Jeux et stockage
 
@@ -28,7 +36,13 @@ Ajoute un amplificateur RGB à la SNS-101, à qui on avait enlevé le RGB en usi
 
 Cartouche flash qui prend en charge les puces d'amélioration (Super FX, SA-1…) et les sauvegardes instantanées.
 
-:material-power-plug: Sans installation
+[:material-cart: Acheter](https://krikzz.com){ target=_blank } · :material-power-plug: Sans installation
+
+### SNES 8 Megabitz / Super Stacker
+
+Mémoire reprogrammable qui remplace la ROM d'une cartouche, par exemple pour mettre une traduction sur ta propre cartouche originale.
+
+:material-account-hard-hat: par [Voultar](https://voultar.com/index.php?route=product/category&path=59){ target=_blank } · [:material-cart: Acheter](https://voultar.com/index.php?route=product/category&path=59){ target=_blank }
 
 ## Région et fréquence
 

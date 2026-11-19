@@ -7,13 +7,15 @@
 | **SCPH-1001 à 9001** | PlayStation grise |
 | **SCPH-101** | PSone |
 
-**Légende :** :material-wrench: **Installé par PixelNet** · :material-book-open-variant: **Guide** sur ce wiki · :material-power-plug: **Sans installation** (cartouche, adaptateur ou logiciel)
+**Légende :** :material-wrench: **Installé par PixelNet** · :material-book-open-variant: **Guide** sur ce wiki · :material-power-plug: **Sans installation** (cartouche, adaptateur ou logiciel) · :material-cart: **Acheter** à la source officielle
 
 ## Vidéo
 
 ### PS1Digital (PixelFX)
 
 Sortie HDMI numérique interne avec mise à l'échelle et désentrelacement.
+
+[:material-cart: Acheter](https://www.pixelfx.co){ target=_blank }
 
 ## Jeux et stockage
 
@@ -34,6 +36,8 @@ Se branche dans le port parallèle à l'arrière (premiers modèles seulement). 
 ### Modchip (PSNee)
 
 Modchip open source pour jouer les jeux importés et les copies de sauvegarde.
+
+[:material-cart: Acheter](https://github.com/kalymos/PsNee){ target=_blank }
 
 ## Entretien et fiabilité
 

@@ -8,7 +8,7 @@
 | **NES-101** | Chargement par le haut, RF seulement |
 | **HVC-001 / HVC-101** | Famicom / AV Famicom (Japon) |
 
-**Légende :** :material-wrench: **Installé par PixelNet** · :material-book-open-variant: **Guide** sur ce wiki · :material-power-plug: **Sans installation** (cartouche, adaptateur ou logiciel)
+**Légende :** :material-wrench: **Installé par PixelNet** · :material-book-open-variant: **Guide** sur ce wiki · :material-power-plug: **Sans installation** (cartouche, adaptateur ou logiciel) · :material-cart: **Acheter** à la source officielle
 
 ## Vidéo
 
@@ -20,7 +20,9 @@ RGB, S-Video et composite propre directement du PPU, 8 palettes et reset en jeu.
 
 ### NESRGB
 
-Carte installée sous le PPU qui ajoute le RGB avec palettes au choix. Souvent jumelée à un multi-out pour utiliser les câbles SNES.
+Carte installée sous le PPU qui ajoute le RGB avec palettes au choix (6 sur la version 2022), plus le dejitter pour une meilleure compatibilité avec les scalers. Souvent jumelée à un multi-out pour utiliser les câbles SNES.
+
+:material-account-hard-hat: par [Tim Worthington](https://etim.net.au){ target=_blank } · [:material-cart: Acheter](https://etim.net.au/shop/shop.php){ target=_blank }
 
 ### Hi-Def NES
 
@@ -42,9 +44,15 @@ Relie le port d'expansion pour que les puces sonores Famicom (VRC6, etc.) jouent
 
 Cartouche flash : toute ta collection sur une carte SD, avec sauvegardes instantanées et audio d'expansion.
 
-:material-power-plug: Sans installation
+[:material-cart: Acheter](https://krikzz.com){ target=_blank } · :material-power-plug: Sans installation
 
 ## Région et fréquence
+
+### Sans région (RetroSix)
+
+Trousse RetroSix pour jouer les cartouches de toutes les régions sur ta NES.
+
+:material-account-hard-hat: par [RetroSix](https://www.retrosix.co.uk){ target=_blank } · [:material-cart: Acheter](https://www.retrosix.co.uk){ target=_blank }
 
 ### Désactivation du 10NES (CIC)
 

@@ -7,15 +7,27 @@
 | **Lynx I** | Originale, plus grosse |
 | **Lynx II** | Plus petite, meilleur écran |
 
-**Légende :** :material-wrench: **Installé par PixelNet** · :material-book-open-variant: **Guide** sur ce wiki · :material-power-plug: **Sans installation** (cartouche, adaptateur ou logiciel)
+**Légende :** :material-wrench: **Installé par PixelNet** · :material-book-open-variant: **Guide** sur ce wiki · :material-power-plug: **Sans installation** (cartouche, adaptateur ou logiciel) · :material-cart: **Acheter** à la source officielle
 
 ## Écran
+
+### CleanScreen IPS
+
+Remplace l'écran sombre et gourmand par un écran IPS : meilleures couleurs et pile qui dure bien plus. Lynx I et II.
+
+:material-account-hard-hat: par [RetroSix](https://www.retrosix.co.uk){ target=_blank } · [:material-cart: Acheter](https://www.retrosix.co.uk){ target=_blank }
 
 ### Trousse d'écran LCD / IPS
 
 Écran moderne lumineux aux pixels nets.
 
 ## Alimentation et batterie
+
+### CleanPower
+
+Remplace le circuit d'alimentation et ajoute une entrée USB, avec piles LiPo en option. Lynx I et II.
+
+:material-account-hard-hat: par [RetroSix](https://www.retrosix.co.uk){ target=_blank } · [:material-cart: Acheter](https://www.retrosix.co.uk){ target=_blank }
 
 ### Pile rechargeable
 

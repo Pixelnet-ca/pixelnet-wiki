@@ -7,7 +7,7 @@
 | **SCPH-3000x à 5000x** | Fat : disque dur interne avec adaptateur réseau |
 | **SCPH-7000x à 9000x** | Slim |
 
-**Légende :** :material-wrench: **Installé par PixelNet** · :material-book-open-variant: **Guide** sur ce wiki · :material-power-plug: **Sans installation** (cartouche, adaptateur ou logiciel)
+**Légende :** :material-wrench: **Installé par PixelNet** · :material-book-open-variant: **Guide** sur ce wiki · :material-power-plug: **Sans installation** (cartouche, adaptateur ou logiciel) · :material-cart: **Acheter** à la source officielle
 
 ## Jeux et stockage
 

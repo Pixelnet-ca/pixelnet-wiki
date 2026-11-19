@@ -7,9 +7,15 @@
 | **SMS1** | Has RGB on the A/V port |
 | **SMS2** | RF only |
 
-**Legend:** :material-wrench: **PixelNet installs it** · :material-book-open-variant: **Guide** on this wiki · :material-power-plug: **No install** (cart, adapter or software)
+**Legend:** :material-wrench: **PixelNet installs it** · :material-book-open-variant: **Guide** on this wiki · :material-power-plug: **No install** (cart, adapter or software) · :material-cart: **Buy** from the official source
 
 ## Video
+
+### CleanRGB
+
+Active RGB board that cleans up the video signal right at the source.
+
+:material-account-hard-hat: by [RetroSix](https://www.retrosix.co.uk){ target=_blank } · [:material-cart: Buy](https://www.retrosix.co.uk){ target=_blank }
 
 ### AV / RGB mod (SMS2)
 
@@ -17,9 +23,11 @@ Brings back composite and RGB on the Master System II.
 
 ## Audio
 
-### FM sound unit
+### SMSFM
 
-Adds the Japanese FM sound chip (YM2413) for the richer soundtrack of supported games.
+FM sound expansion for the SMS1 and SMS2: adds the Japanese FM sound chip (YM2413) for the richer soundtrack of supported games.
+
+:material-account-hard-hat: by [Tim Worthington](https://etim.net.au){ target=_blank } · [:material-cart: Buy](https://etim.net.au/shop/shop.php){ target=_blank }
 
 ## Games & storage
 
@@ -27,7 +35,7 @@ Adds the Japanese FM sound chip (YM2413) for the richer soundtrack of supported 
 
 Flash cartridge for Master System games.
 
-:material-power-plug: No install
+[:material-cart: Buy](https://krikzz.com){ target=_blank } · :material-power-plug: No install
 
 ## Region & frequency
 

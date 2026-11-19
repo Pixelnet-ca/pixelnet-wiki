@@ -8,9 +8,15 @@
 | **AGS-001** | GBA SP, frontlit |
 | **AGS-101** | GBA SP, backlit |
 
-**Legend:** :material-wrench: **PixelNet installs it** · :material-book-open-variant: **Guide** on this wiki · :material-power-plug: **No install** (cart, adapter or software)
+**Legend:** :material-wrench: **PixelNet installs it** · :material-book-open-variant: **Guide** on this wiki · :material-power-plug: **No install** (cart, adapter or software) · :material-cart: **Buy** from the official source
 
 ## Screen
+
+### CleanScreen IPS
+
+RetroSix IPS kit for the GBA: true-to-original colours, upgradeable from Core to Pro/Ultra through the CleanScreen app.
+
+:material-account-hard-hat: by [RetroSix](https://www.retrosix.co.uk){ target=_blank } · [:material-cart: Buy](https://www.retrosix.co.uk){ target=_blank }
 
 ### IPS screen kit
 
@@ -18,15 +24,31 @@ Laminated backlit IPS with brightness and colour settings. Versions exist for th
 
 ## Audio
 
-### Audio amp board
+### CleanAmp
 
-Fixes buzzing and weak audio with a new amplifier.
+Amplifier board for louder, cleaner sound. For the GBA and the GBA SP.
+
+:material-account-hard-hat: by [RetroSix](https://www.retrosix.co.uk){ target=_blank } · [:material-cart: Buy](https://www.retrosix.co.uk){ target=_blank }
+
+### Wire-free dehum kit
+
+Removes the GBA's typical audio hum, without extra wiring.
+
+:material-account-hard-hat: by [RetroSix](https://www.retrosix.co.uk){ target=_blank } · [:material-cart: Buy](https://www.retrosix.co.uk){ target=_blank }
 
 ## Power & battery
 
-### USB-C rechargeable battery
+### CleanJuice
 
-USB-C battery kit for the GBA; USB-C charge port for the SP.
+Rechargeable USB battery for the GBA; the power LED turns red at about 5% battery.
+
+:material-account-hard-hat: by [RetroSix](https://www.retrosix.co.uk){ target=_blank } · [:material-cart: Buy](https://www.retrosix.co.uk){ target=_blank }
+
+### USB-C charging (SP)
+
+Replaces the SP's proprietary charge port with USB-C.
+
+:material-account-hard-hat: by [RetroSix](https://www.retrosix.co.uk){ target=_blank } · [:material-cart: Buy](https://www.retrosix.co.uk){ target=_blank }
 
 ## Shell & buttons
 

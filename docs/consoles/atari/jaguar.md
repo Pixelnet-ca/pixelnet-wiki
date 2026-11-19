@@ -7,7 +7,7 @@
 | **J8001** | NTSC |
 | **Jaguar CD** | CD add-on |
 
-**Legend:** :material-wrench: **PixelNet installs it** · :material-book-open-variant: **Guide** on this wiki · :material-power-plug: **No install** (cart, adapter or software)
+**Legend:** :material-wrench: **PixelNet installs it** · :material-book-open-variant: **Guide** on this wiki · :material-power-plug: **No install** (cart, adapter or software) · :material-cart: **Buy** from the official source
 
 ## Games & storage
 
@@ -24,6 +24,12 @@ Flash cartridge: cartridge games from an SD card.
 Replacement BIOS for uploading homebrew from a computer.
 
 ## Region & frequency
+
+### Region Free BIOS
+
+Replacement BIOS to play games from every region.
+
+:material-account-hard-hat: by [RetroSix](https://www.retrosix.co.uk){ target=_blank } · [:material-cart: Buy](https://www.retrosix.co.uk){ target=_blank }
 
 ### 50/60 Hz switch (PAL)
 

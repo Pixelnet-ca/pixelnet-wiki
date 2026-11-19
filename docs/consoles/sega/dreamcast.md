@@ -6,13 +6,15 @@
 |---|---|
 | **HKT-3000 / 3010 / 3020** | Region versions; mods are the same |
 
-**Legend:** :material-wrench: **PixelNet installs it** · :material-book-open-variant: **Guide** on this wiki · :material-power-plug: **No install** (cart, adapter or software)
+**Legend:** :material-wrench: **PixelNet installs it** · :material-book-open-variant: **Guide** on this wiki · :material-power-plug: **No install** (cart, adapter or software) · :material-cart: **Buy** from the official source
 
 ## Video
 
 ### DCHDMI
 
 Internal digital HDMI output, open source. Cleaner than a VGA-to-HDMI adapter.
+
+[:material-cart: Buy](https://github.com/chriz2600/DreamcastHDMI){ target=_blank }
 
 ## Games & storage
 
@@ -26,11 +28,15 @@ Replaces the GD-ROM drive: games load from an SD card, faster and silent.
 
 ODE with SD and SSD/HDD support and a richer menu.
 
+[:material-cart: Buy](https://www.terraonion.com){ target=_blank }
+
 ## Region & frequency
 
 ### Region-free BIOS
 
 Replacement BIOS to play every region and boot faster.
+
+:material-account-hard-hat: by [RetroSix](https://www.retrosix.co.uk){ target=_blank } · [:material-cart: Buy](https://www.retrosix.co.uk){ target=_blank }
 
 ## Upgrades & features
 

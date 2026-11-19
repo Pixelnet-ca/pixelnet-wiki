@@ -9,7 +9,7 @@
 | **Modèle 3** | Modèle économique Majesco, peu de mods |
 | **Nomad** | Genesis portable |
 
-**Légende :** :material-wrench: **Installé par PixelNet** · :material-book-open-variant: **Guide** sur ce wiki · :material-power-plug: **Sans installation** (cartouche, adaptateur ou logiciel)
+**Légende :** :material-wrench: **Installé par PixelNet** · :material-book-open-variant: **Guide** sur ce wiki · :material-power-plug: **Sans installation** (cartouche, adaptateur ou logiciel) · :material-cart: **Acheter** à la source officielle
 
 ## Vidéo
 
@@ -18,6 +18,12 @@
 Modèle 2 : contourne l'encodeur vidéo d'origine. RGB net sans jailbars, en plus d'un composite et d'un S-Video plus propres.
 
 :material-wrench: **Installé par PixelNet**
+
+### CleanRGB
+
+Carte RGB active pour les modèles 1 et 2 : niveaux corrects et signal propre dès la source.
+
+:material-account-hard-hat: par [RetroSix](https://www.retrosix.co.uk){ target=_blank } · [:material-cart: Acheter](https://www.retrosix.co.uk){ target=_blank }
 
 ## Audio
 
@@ -31,7 +37,7 @@ Remplace le circuit audio pour un son plus propre et mieux équilibré sur les m
 
 Cartouche flash qui joue aussi les jeux Sega CD quand un Sega CD est branché.
 
-:material-power-plug: Sans installation
+[:material-cart: Acheter](https://krikzz.com){ target=_blank } · :material-power-plug: Sans installation
 
 ## Région et fréquence
 
@@ -39,7 +45,21 @@ Cartouche flash qui joue aussi les jeux Sega CD quand un Sega CD est branché.
 
 Change la région (langue) et 50/60 Hz avec un interrupteur ou à la manette, avec reset en jeu.
 
+[:material-cart: Acheter](https://github.com/SukkoPera/MegaDrivePlusPlus){ target=_blank }
+
 ## Améliorations et fonctions
+
+### Mega CD : BIOS sans région
+
+BIOS RetroSix pour jouer aux jeux Sega CD / Mega-CD de toutes les régions.
+
+:material-account-hard-hat: par [RetroSix](https://www.retrosix.co.uk){ target=_blank } · [:material-cart: Acheter](https://www.retrosix.co.uk){ target=_blank }
+
+### Mega CD : FRAM
+
+Remplace la mémoire de sauvegarde par de la FRAM : les sauvegardes restent sans pile. Modèles 1 et 2.
+
+:material-account-hard-hat: par [RetroSix](https://www.retrosix.co.uk){ target=_blank } · [:material-cart: Acheter](https://www.retrosix.co.uk){ target=_blank }
 
 ### Sega CD : sélecteur de BIOS
 
@@ -52,6 +72,14 @@ Le recap et l'entretien du lecteur/laser redonnent vie aux périphériques.
 ### Nomad : écran et alimentation
 
 Trousses d'écran de remplacement, recap et bloc-pile moderne pour la Genesis portable.
+
+## Alimentation et batterie
+
+### CleanPower USB-C
+
+Alimente le modèle 1 ou 2 par USB-C au lieu de l'adaptateur d'origine.
+
+:material-account-hard-hat: par [RetroSix](https://www.retrosix.co.uk){ target=_blank } · [:material-cart: Acheter](https://www.retrosix.co.uk){ target=_blank }
 
 ## Entretien et fiabilité
 

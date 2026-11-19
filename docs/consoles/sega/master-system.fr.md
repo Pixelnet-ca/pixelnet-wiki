@@ -7,9 +7,15 @@
 | **SMS1** | A le RGB sur le port A/V |
 | **SMS2** | RF seulement |
 
-**Légende :** :material-wrench: **Installé par PixelNet** · :material-book-open-variant: **Guide** sur ce wiki · :material-power-plug: **Sans installation** (cartouche, adaptateur ou logiciel)
+**Légende :** :material-wrench: **Installé par PixelNet** · :material-book-open-variant: **Guide** sur ce wiki · :material-power-plug: **Sans installation** (cartouche, adaptateur ou logiciel) · :material-cart: **Acheter** à la source officielle
 
 ## Vidéo
+
+### CleanRGB
+
+Carte RGB active qui nettoie le signal vidéo directement à la source.
+
+:material-account-hard-hat: par [RetroSix](https://www.retrosix.co.uk){ target=_blank } · [:material-cart: Acheter](https://www.retrosix.co.uk){ target=_blank }
 
 ### Mod AV / RGB (SMS2)
 
@@ -17,9 +23,11 @@ Ramène le composite et le RGB sur la Master System II.
 
 ## Audio
 
-### Module de son FM
+### SMSFM
 
-Ajoute la puce sonore FM japonaise (YM2413) pour la musique plus riche des jeux compatibles.
+Expansion de son FM pour la SMS1 et la SMS2 : ajoute la puce sonore FM japonaise (YM2413) pour la musique plus riche des jeux compatibles.
+
+:material-account-hard-hat: par [Tim Worthington](https://etim.net.au){ target=_blank } · [:material-cart: Acheter](https://etim.net.au/shop/shop.php){ target=_blank }
 
 ## Jeux et stockage
 
@@ -27,7 +35,7 @@ Ajoute la puce sonore FM japonaise (YM2413) pour la musique plus riche des jeux 
 
 Cartouche flash pour les jeux Master System.
 
-:material-power-plug: Sans installation
+[:material-cart: Acheter](https://krikzz.com){ target=_blank } · :material-power-plug: Sans installation
 
 ## Région et fréquence
 
