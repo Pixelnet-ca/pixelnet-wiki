@@ -67,6 +67,7 @@ plugins:
             General: Général
             Which scaler?: Quel scaler ?
             Glossary: Lexique
+            Resources: Ressources
             Other consoles: Autres consoles
 
 markdown_extensions:
@@ -141,4 +142,5 @@ nav:
           - "ColecoVision": consoles/other/colecovision.md
           - "Intellivision": consoles/other/intellivision.md
           - "Vectrex": consoles/other/vectrex.md
+  - Resources: resources.md
   - Glossary: glossary.md
