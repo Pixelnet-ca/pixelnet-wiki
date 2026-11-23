@@ -91,7 +91,44 @@ Enfoncez les **3 entretoises** dans la carte XStation (coins inférieur droit, s
 
 ### 9. Tester avant de fermer
 
-Remontez la console juste assez pour l'allumer, insérez la carte microSD avec un jeu et vérifiez que le menu s'affiche et que le jeu démarre. Remontez ensuite la PlayStation au complet.
+Remontez la console juste assez pour l'allumer, préparez la carte microSD (voir [la section suivante](#preparer-la-carte-microsd-et-le-loader)), et vérifiez que le menu du XStation s'affiche et qu'un jeu démarre. Remontez ensuite la PlayStation au complet.
+
+## Préparer la carte microSD et le loader
+
+Le XStation a besoin de ses fichiers système sur la carte microSD pour lancer son menu (le **loader**) et mettre à jour son firmware.
+
+### 1. Formater la carte
+
+Formatez la carte microSD avec le **SD Memory Card Formatter** de la SD Association. Il choisit lui-même le bon système de fichiers (FAT32 jusqu'à 32 Go, exFAT au-delà) avec le bon alignement, ce qui évite la plupart des problèmes de « carte non détectée ».
+
+### 2. Copier les fichiers du XStation
+
+1. Téléchargez le dernier firmware sur la [page des versions XStation :material-open-in-new:](https://github.com/x-station/xstation-releases/releases){ target=_blank }.
+2. À la **racine** de la carte, créez un dossier nommé exactement **`00xstation`**.
+3. Extrayez **`update.bin`** et **`loader.bin`** du téléchargement dans ce dossier `00xstation`.
+
+!!! info "Firmware récent"
+    Depuis le firmware 2.0.2, le loader est intégré au XStation : la console peut lancer le menu même sans `loader.bin`. Le fichier est toujours fourni, alors gardez-le dans le dossier.
+
+### 3. Ajouter vos jeux
+
+Copiez vos images de disque (**.bin + .cue**, idéalement au format Redump) à la racine de la carte ou dans des sous-dossiers, par exemple un dossier par jeu. Gardez les fichiers `.bin` et leur `.cue` ensemble.
+
+### 4. Premier démarrage et mise à jour du firmware
+
+1. Insérez la carte, **fermez le couvercle** (ou tenez l'interrupteur du couvercle enfoncé si le dessus du boîtier est retiré) et allumez la console.
+2. Le menu du XStation (le loader) apparaît. S'il ne démarre pas tout seul, **tenez Reset enfoncé environ une seconde**.
+3. Ouvrez le menu des **options**, choisissez **Update Firmware**, puis appuyez sur **Start**.
+4. Le firmware s'installe et la console redémarre toute seule. Vous pouvez vérifier la nouvelle version dans le menu des options.
+
+!!! tip "Navigation par dossiers"
+    Dans les options du loader, vous pouvez activer la **navigation par dossiers** : les jeux s'affichent par dossier, sans balayer toute la carte d'abord. Pratique avec une grosse collection.
+
+### Si le loader ne démarre pas
+
+- **Vous arrivez sur l'écran Memory Card / CD Player :** la console croit que le couvercle est ouvert. Sans le lecteur d'origine, le couvercle n'appuie parfois plus sur l'interrupteur. Tenez l'interrupteur enfoncé en allumant; si le menu apparaît, ajoutez une petite cale pour que le couvercle l'enfonce bien.
+- **La carte n'est pas détectée :** réinsérez-la à fond, essayez une autre carte formatée comme plus haut, et vérifiez que `00xstation` est bien à la racine de la carte (pas dans un autre dossier).
+- **Toujours rien :** revérifiez l'installation : chaque soudure de la QSB (au multimètre), les 8 pattes soulevées d'IC701 (aucune ne touche son pad) et la nappe (bien enfoncée, côté bleu vers le haut sur la QSB).
 
 ## Guide officiel XStation
 
