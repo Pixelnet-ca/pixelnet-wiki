@@ -48,6 +48,10 @@ Sur le **dessus** de la carte mère, trouvez **IC701**, la puce Sony marquée **
 
 C'est l'étape délicate. Soulevez **seulement** ces pattes : **45, 46, 47, 56, 74, 77, 78 et 80**.
 
+![Les 8 pattes à soulever, marquées en rouge](../assets/guides/ps1-xstation/ps1-ic701-pins-to-lift.jpg){ .pn-photo }
+
+Les numéros des pattes sont imprimés aux coins de la puce. La rangée du haut va de **80** (à gauche) à **51** (à droite), et le côté droit de **50** (en haut) vers le bas. Comptez à partir de ces coins : 80, 78, 77 et 74 sont les 1re, 3e, 4e et 7e pattes à partir de la gauche de la rangée du haut; 56 est la 6e à partir de la droite; 47, 46 et 45 sont les 4e, 5e et 6e pattes en descendant le côté droit.
+
 Pour chaque patte : un peu de flux, touchez la patte avec la pointe du fer pour faire fondre la soudure, puis soulevez-la **doucement** par en dessous avec l'aiguille ou la lame. Une patte à la fois, sous grossissement. Tourner la carte peut vous donner un meilleur angle.
 
 ![Pattes soulevées sur la rangée du haut, près de la patte 80](../assets/guides/ps1-xstation/ps1-ic701-lifted-legs.jpg){ .pn-photo }

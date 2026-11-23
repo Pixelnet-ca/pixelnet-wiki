@@ -48,6 +48,10 @@ On the **top side** of the motherboard, find **IC701**, the Sony chip marked **C
 
 This is the delicate part. Lift **only** these legs: **45, 46, 47, 56, 74, 77, 78 and 80**.
 
+![The 8 legs to lift, marked in red](../assets/guides/ps1-xstation/ps1-ic701-pins-to-lift.jpg){ .pn-photo }
+
+Pin numbers are printed at the chip's corners. The top row goes from **80** (left) to **51** (right), and the right side from **50** (top) down. Count from those corners: 80, 78, 77 and 74 are the 1st, 3rd, 4th and 7th legs from the left of the top row; 56 is the 6th from the right; 47, 46 and 45 are the 4th, 5th and 6th legs down the right side.
+
 For each leg: add a little flux, touch the leg with the soldering tip to melt the solder, and **gently** lift it from underneath with the needle or blade. Work one leg at a time, under magnification. Turning the board around can give you a better angle.
 
 ![Lifted legs on the top row, near pin 80](../assets/guides/ps1-xstation/ps1-ic701-lifted-legs.jpg){ .pn-photo }
