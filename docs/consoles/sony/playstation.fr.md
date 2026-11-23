@@ -47,6 +47,9 @@ ODE qui remplace le lecteur : jeux sur microSD, chargement plus rapide. Pour les
 <span class="pn-k">Installation</span> <span class="pn-bar pn-d3">■■■□</span> **Avancé** · Soudure fine sur de petits points, retrait de composants, coupe de pistes.
 </div>
 
+:material-book-open-variant: [Guide d'installation (PU-18)](../../guides/ps1-xstation-pu18.md)
+
+
 ### PicoStation
 
 ODE open source, alternative moins chère au XStation.

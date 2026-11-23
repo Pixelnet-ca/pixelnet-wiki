@@ -95,6 +95,8 @@ nav:
           - Lava RGB 2.0: guides/nes-lava-rgb.md
       - Super Nintendo:
           - CleanRGB + EdgeBuster: guides/snes-cleanrgb-edgebuster.md
+      - PlayStation:
+          - XStation (PU-18): guides/ps1-xstation-pu18.md
   - Consoles:
       - consoles/index.md
       - Nintendo:

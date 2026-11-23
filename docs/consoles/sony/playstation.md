@@ -47,6 +47,9 @@ ODE that replaces the drive: games from microSD, faster loading. Fits models up 
 <span class="pn-k">Install</span> <span class="pn-bar pn-d3">■■■□</span> **Advanced** · Fine soldering on small points, removing parts, cutting traces.
 </div>
 
+:material-book-open-variant: [Installation guide (PU-18)](../../guides/ps1-xstation-pu18.md)
+
+
 ### PicoStation
 
 Open-source ODE, cheaper alternative to the XStation.
