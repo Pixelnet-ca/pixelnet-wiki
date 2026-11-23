@@ -18,6 +18,11 @@ Le **XStation** est un émulateur de lecteur optique (ODE) : il prend la place d
 
 Ouvrez la console : la révision (**PU-18**, **PU-8**…) est imprimée sur la carte mère. Le numéro de modèle (SCPH-…) sur l'étiquette sous la console donne un bon premier indice, mais seule la carte elle-même est certaine.
 
+![Carte mère PU-18 avec le blindage du dessus soulevé : IC701 est en bas à droite](../assets/guides/ps1-xstation/ps1-pu18-board.jpg){ .pn-photo }
+
+![La révision imprimée sur la carte : PU-18](../assets/guides/ps1-xstation/ps1-pu18-revision.jpg){ .pn-photo }
+
+
 ## Ce qu'il vous faut
 
 - La trousse **XStation** : carte principale, **QSB** (Quick Solder Board) pour PU-18, nappe et entretoises
@@ -36,11 +41,17 @@ Ouvrez la console : la révision (**PU-18**, **PU-8**…) est imprimée sur la c
 
 Sur le **dessus** de la carte mère, trouvez **IC701**, la puce Sony marquée **CXD2545Q**, dans le coin inférieur droit.
 
+![IC701 : Sony CXD2545Q. Les numéros de pattes 1, 30, 31, 50, 51, 80, 81 et 100 sont imprimés autour](../assets/guides/ps1-xstation/ps1-ic701-cxd2545q.jpg){ .pn-photo }
+
+
 ### 2. Soulever 8 pattes d'IC701
 
 C'est l'étape délicate. Soulevez **seulement** ces pattes : **45, 46, 47, 56, 74, 77, 78 et 80**.
 
 Pour chaque patte : un peu de flux, touchez la patte avec la pointe du fer pour faire fondre la soudure, puis soulevez-la **doucement** par en dessous avec l'aiguille ou la lame. Une patte à la fois, sous grossissement. Tourner la carte peut vous donner un meilleur angle.
+
+![Pattes soulevées sur la rangée du haut, près de la patte 80](../assets/guides/ps1-xstation/ps1-ic701-lifted-legs.jpg){ .pn-photo }
+
 
 !!! tip "Vérifiez chaque patte"
     Chaque patte soulevée doit être **complètement** libre : aucun contact avec son pad ni avec la carte. Vérifiez-les une par une sous grossissement (et au multimètre en cas de doute). Ne soulevez aucune autre patte.
@@ -68,6 +79,11 @@ Branchez la nappe dans le connecteur de la QSB, **côté bleu vers le haut**, et
 ### 8. Fixer le XStation
 
 Enfoncez les **3 entretoises** dans la carte XStation (coins inférieur droit, supérieur droit et supérieur gauche, vu de dessus). Branchez l'autre bout de la nappe au XStation, pliez-la comme dans le guide, puis fixez le XStation sur les **poteaux du lecteur d'origine**.
+
+![Le XStation fixé à la place du lecteur, nappe branchée](../assets/guides/ps1-xstation/ps1-xstation-installed.jpg){ .pn-photo }
+
+![Le XStation de plus près](../assets/guides/ps1-xstation/ps1-xstation-closeup.jpg){ .pn-photo }
+
 
 ### 9. Tester avant de fermer
 

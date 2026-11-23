@@ -18,6 +18,11 @@ The **XStation** is an optical drive emulator (ODE): it takes the place of the P
 
 Open the console: the revision (**PU-18**, **PU-8**…) is printed on the motherboard. The model number (SCPH-…) on the label under the console gives a good first hint, but only the board itself is certain.
 
+![PU-18 motherboard with the top shield lifted: IC701 is at the lower right](../assets/guides/ps1-xstation/ps1-pu18-board.jpg){ .pn-photo }
+
+![The revision printed on the board: PU-18](../assets/guides/ps1-xstation/ps1-pu18-revision.jpg){ .pn-photo }
+
+
 ## What you need
 
 - The **XStation** kit: main board, **QSB** (Quick Solder Board) for PU-18, flex cable and spacers
@@ -36,11 +41,17 @@ Open the console: the revision (**PU-18**, **PU-8**…) is printed on the mother
 
 On the **top side** of the motherboard, find **IC701**, the Sony chip marked **CXD2545Q**, in the lower right corner.
 
+![IC701: Sony CXD2545Q. Pin numbers 1, 30, 31, 50, 51, 80, 81 and 100 are printed around it](../assets/guides/ps1-xstation/ps1-ic701-cxd2545q.jpg){ .pn-photo }
+
+
 ### 2. Lift 8 legs of IC701
 
 This is the delicate part. Lift **only** these legs: **45, 46, 47, 56, 74, 77, 78 and 80**.
 
 For each leg: add a little flux, touch the leg with the soldering tip to melt the solder, and **gently** lift it from underneath with the needle or blade. Work one leg at a time, under magnification. Turning the board around can give you a better angle.
+
+![Lifted legs on the top row, near pin 80](../assets/guides/ps1-xstation/ps1-ic701-lifted-legs.jpg){ .pn-photo }
+
 
 !!! tip "Check every leg"
     Each lifted leg must be **completely** free: no contact with its pad or the board. Check them one by one under magnification (and with the multimeter if in doubt). Lift no other legs.
@@ -68,6 +79,11 @@ Plug the flex cable into the QSB connector, **blue side up**, and close the latc
 ### 8. Mount the XStation
 
 Push the **3 spacers** into the XStation board (lower right, upper right and upper left corners, seen from above). Connect the other end of the flex cable to the XStation, fold it as shown in the guide, then mount the XStation on the **posts of the original disc drive**.
+
+![The XStation mounted where the disc drive was, flex cable connected](../assets/guides/ps1-xstation/ps1-xstation-installed.jpg){ .pn-photo }
+
+![XStation close-up](../assets/guides/ps1-xstation/ps1-xstation-closeup.jpg){ .pn-photo }
+
 
 ### 9. Test before closing
 
