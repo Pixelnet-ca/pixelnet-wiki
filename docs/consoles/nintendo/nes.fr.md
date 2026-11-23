@@ -118,5 +118,17 @@ Remettre à neuf ou remplacer le connecteur de cartouche : le remède principal 
 <span class="pn-k">Installation</span> <span class="pn-bar pn-d1">■□□□</span> **Facile** · Tournevis (souvent une pointe spéciale), pièces prêtes à installer, sans soudure.
 </div>
 
+### Nin10-Drawer
+
+NES-001 seulement. Remplace le connecteur 72 broches par une fente style Toploader dans un tiroir qui sort pour retirer les cartouches. Des aimants tiennent la cartouche, un contournement de la puce de verrouillage est intégré (sans région) et la plaque du nom est interchangeable. Conçu avec RockerGaming.
+
+<div class="pn-rate" markdown>
+<span class="pn-k">Communauté</span> <span class="pn-stars pn-r4">★★★★☆</span> **Recommandé** · Bien reçu comme la solution la plus complète pour la NES à chargement frontal : contact fiable, cartouches faciles à retirer et contournement du verrouillage, sans soudure. Coûte plus cher que remettre l'original à neuf.
+
+<span class="pn-k">Installation</span> <span class="pn-bar pn-d1">■□□□</span> **Facile** · Tournevis (souvent une pointe spéciale), pièces prêtes à installer, sans soudure.
+</div>
+
+:material-wrench: **Installé par PixelNet** · :material-account-hard-hat: par [BlueShell3D](https://blueshell3d.com){ target=_blank } · [:material-cart: Acheter](https://blueshell3d.com/products/nin10-drawer){ target=_blank }
+
 !!! tip "Tu veux faire installer un mod ?"
     PixelNet installe des mods et répare des consoles sur demande, même pour des mods absents de la boutique. Écris à [support@pixelnet.ca](mailto:support@pixelnet.ca) ou visite [pixelnet.ca](https://pixelnet.ca).

@@ -18,6 +18,7 @@ MAKERS = {
     "pixelfx": dict(name="PixelFX", url="https://www.pixelfx.co", shop="https://www.pixelfx.co/retro-gem", where="", ou=""),
     "hispeedido": dict(name="Hispeedido", url="https://www.hispeedido.com", shop="https://www.hispeedido.com", where="", ou=""),
     "tim": dict(name="Tim Worthington", url="https://etim.net.au", shop="https://etim.net.au/shop/shop.php", where="Australia", ou="Australie"),
+    "blueshell3d": dict(name="BlueShell3D", url="https://blueshell3d.com", shop="https://blueshell3d.com", where="USA", ou="É.-U."),
 }
 
 # Category order and labels (only categories a console uses are shown)
@@ -87,6 +88,9 @@ dict(slug="nintendo", name="Nintendo",
      dict(n="72-pin connector",
           en="Refurbishing or replacing the cartridge connector: the main cure for the blinking grey screen.",
           fr="Remettre à neuf ou remplacer le connecteur de cartouche : le remède principal à l'écran gris qui clignote."),
+     dict(n="Nin10-Drawer", pn=True, by="blueshell3d", buy="https://blueshell3d.com/products/nin10-drawer",
+          en="NES-001 only. Replaces the 72-pin connector with a Toploader-style slot in a drawer that slides out to take carts out. Magnets hold the cart, a lockout bypass is built in (region-free) and the nameplate is swappable. Designed with RockerGaming.",
+          fr="NES-001 seulement. Remplace le connecteur 72 broches par une fente style Toploader dans un tiroir qui sort pour retirer les cartouches. Des aimants tiennent la cartouche, un contournement de la puce de verrouillage est intégré (sans région) et la plaque du nom est interchangeable. Conçu avec RockerGaming."),
     ],
    }),
 

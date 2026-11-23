@@ -8,7 +8,7 @@ Choisis une marque, puis une console, pour voir tous les mods offerts, classés 
 
 Consoles de salon et portables, de la NES à la Wii.
 
-- [NES / Famicom](nintendo/nes.md) · *9 mods*
+- [NES / Famicom](nintendo/nes.md) · *10 mods*
 - [Super Nintendo / Super Famicom](nintendo/snes.md) · *9 mods*
 - [Nintendo 64](nintendo/n64.md) · *8 mods*
 - [GameCube](nintendo/gamecube.md) · *6 mods*
@@ -104,6 +104,7 @@ Les mods marqués du nom d'un concepteur sont conçus par lui. Achète directeme
 - [**PixelFX**](https://www.pixelfx.co){ target=_blank } · *9 mods* · [:material-cart: Acheter](https://www.pixelfx.co/retro-gem){ target=_blank }
 - [**Hispeedido**](https://www.hispeedido.com){ target=_blank } · *8 mods* · [:material-cart: Acheter](https://www.hispeedido.com){ target=_blank }
 - [**Tim Worthington**](https://etim.net.au){ target=_blank } (Australie) · *5 mods* · [:material-cart: Acheter](https://etim.net.au/shop/shop.php){ target=_blank }
+- [**BlueShell3D**](https://blueshell3d.com){ target=_blank } (É.-U.) · *1 mods* · [:material-cart: Acheter](https://blueshell3d.com){ target=_blank }
 
 !!! info "Tu ne sais pas par où commencer ?"
     Pour la plupart des consoles : d'abord un **recap** si elle est vieille, ensuite la **vidéo** (RGB ou HDMI), puis **jeux et stockage**.

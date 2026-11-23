@@ -57,6 +57,9 @@ R = {
 ("nes", "72-pin connector"): (5, 1,
  "The real cure for blinking. Most prefer refurbishing the original: cheap new connectors are often too tight and wear carts.",
  "Le vrai remède au clignotement. La plupart préfèrent remettre l'original à neuf : les connecteurs neufs bon marché serrent souvent trop et usent les cartouches."),
+("nes", "Nin10-Drawer"): (4, 1,
+ "Well received as the most complete fix for the front-loader: reliable seating, easy cart removal and lockout bypass, no soldering. Costs more than refurbishing the original connector.",
+ "Bien reçu comme la solution la plus complète pour la NES à chargement frontal : contact fiable, cartouches faciles à retirer et contournement du verrouillage, sans soudure. Coûte plus cher que remettre l'original à neuf."),
 # ── SNES ──
 ("snes", "CleanRGB + EdgeBuster (RetroSix)"): (3, 3,
  "Many happy owners and a clean DC design. Some forum users report jitter with the EdgeBuster on certain 2-chip boards; RetroSix advises pairing it with the CleanRGB.",

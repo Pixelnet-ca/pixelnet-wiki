@@ -8,7 +8,7 @@ Pick a brand, then a console, to see every mod available for it, grouped by type
 
 Home consoles and handhelds, from the NES to the Wii.
 
-- [NES / Famicom](nintendo/nes.md) · *9 mods*
+- [NES / Famicom](nintendo/nes.md) · *10 mods*
 - [Super Nintendo / Super Famicom](nintendo/snes.md) · *9 mods*
 - [Nintendo 64](nintendo/n64.md) · *8 mods*
 - [GameCube](nintendo/gamecube.md) · *6 mods*
@@ -104,6 +104,7 @@ Mods marked with a maker's name are designed by them. Buy from the maker directl
 - [**PixelFX**](https://www.pixelfx.co){ target=_blank } · *9 mods* · [:material-cart: Buy](https://www.pixelfx.co/retro-gem){ target=_blank }
 - [**Hispeedido**](https://www.hispeedido.com){ target=_blank } · *8 mods* · [:material-cart: Buy](https://www.hispeedido.com){ target=_blank }
 - [**Tim Worthington**](https://etim.net.au){ target=_blank } (Australia) · *5 mods* · [:material-cart: Buy](https://etim.net.au/shop/shop.php){ target=_blank }
+- [**BlueShell3D**](https://blueshell3d.com){ target=_blank } (USA) · *1 mods* · [:material-cart: Buy](https://blueshell3d.com){ target=_blank }
 
 !!! info "Not sure where to start?"
     For most consoles: **recap** first if it's old, then **video** (RGB or HDMI), then **games & storage**.

@@ -118,5 +118,17 @@ Refurbishing or replacing the cartridge connector: the main cure for the blinkin
 <span class="pn-k">Install</span> <span class="pn-bar pn-d1">■□□□</span> **Easy** · Screwdriver (often a game bit), drop-in parts, no soldering.
 </div>
 
+### Nin10-Drawer
+
+NES-001 only. Replaces the 72-pin connector with a Toploader-style slot in a drawer that slides out to take carts out. Magnets hold the cart, a lockout bypass is built in (region-free) and the nameplate is swappable. Designed with RockerGaming.
+
+<div class="pn-rate" markdown>
+<span class="pn-k">Community</span> <span class="pn-stars pn-r4">★★★★☆</span> **Recommended** · Well received as the most complete fix for the front-loader: reliable seating, easy cart removal and lockout bypass, no soldering. Costs more than refurbishing the original connector.
+
+<span class="pn-k">Install</span> <span class="pn-bar pn-d1">■□□□</span> **Easy** · Screwdriver (often a game bit), drop-in parts, no soldering.
+</div>
+
+:material-wrench: **PixelNet installs it** · :material-account-hard-hat: by [BlueShell3D](https://blueshell3d.com){ target=_blank } · [:material-cart: Buy](https://blueshell3d.com/products/nin10-drawer){ target=_blank }
+
 !!! tip "Want a mod installed?"
     PixelNet installs mods and repairs consoles on request, even for mods not listed in the shop. Write to [support@pixelnet.ca](mailto:support@pixelnet.ca) or visit [pixelnet.ca](https://pixelnet.ca).
