@@ -10,11 +10,14 @@ Fully restored and modded consoles, built one at a time in Trois-Rivières, Cana
 !!! info "How to check your console"
     Scan the QR code on your build card, or look for the red **PIXELNET EDITION #000** badge on the case and find that number here.
 
+    Then flip the console over: the **serial number** on the bottom must end with the digits listed for your build. Each card and inside sticker is also signed by hand. If the number doesn't match, it isn't a genuine PixelNet Edition — write to us.
+
 ## #001 — NES { #001 }
 
 | | |
 |---|---|
 | **Console** | NES · NES-001 (front-loader) |
+| **Serial no.** | ending in … (added when the build is done) |
 | **Status** | :material-progress-wrench: In progress |
 | **Build date** | — |
 | **Tested on** | — |
