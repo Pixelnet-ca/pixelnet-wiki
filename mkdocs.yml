@@ -144,5 +144,6 @@ nav:
           - "ColecoVision": consoles/other/colecovision.md
           - "Intellivision": consoles/other/intellivision.md
           - "Vectrex": consoles/other/vectrex.md
+  - PixelNet Edition: pixelnet-edition.md
   - Resources: resources.md
   - Glossary: glossary.md
