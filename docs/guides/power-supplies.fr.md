@@ -31,7 +31,7 @@ La série WSU de Triad Magnetics est la référence de la communauté : régulé
 | Super Famicom | 10 V CC 850 mA | Centre négatif · 5,5 × 2,1 mm | Triad **WSU090-1300-R** |
 | Master System | 9 V CC 1 A | Centre négatif · 5,5 × 2,1 mm | Triad **WSU090-1300-R** |
 | Genesis / Mega Drive modèle 1 | 9 V CC 1,2 A | Centre négatif · 5,5 × 2,1 mm | Triad **WSU090-1300-R** |
-| Genesis modèle 2, 32X, Nomad | 10 V CC 850 mA | Centre positif · EIAJ-03 (4,75 × 1,7 mm) | Régulée 9 V ≥ 1 A, centre positif, EIAJ-03 (le 9 V fonctionne très bien) — *choix à venir* |
+| Genesis modèle 2, 32X, Nomad | 10 V CC 850 mA | Centre positif · EIAJ-03 (4,75 × 1,7 mm) | Triad **WSU090-1300** (centre positif) avec une fiche EIAJ-03 — soudée, ou avec un adaptateur 5,5 × 2,1 → EIAJ-03 (4,75 × 1,7 mm). Le 9 V fonctionne très bien. **Le bout doit être positif.** |
 | Genesis 3 | 10 V CC 300 mA | Centre positif · EIAJ-03 | Comme la Genesis modèle 2 |
 | Game Gear (Amérique du Nord) | 10 V CC 850 mA | Centre positif · EIAJ-03 | Comme la Genesis modèle 2 |
 | TurboGrafx-16 / PC Engine | 9–10,5 V CC 650–730 mA | Centre négatif · 5,5 × 2,1 mm | Triad **WSU090-1300-R** |
