@@ -2,6 +2,7 @@
 
 ## Général
 - [Quel scaler choisir ?](scalers.md)
+- [Alimentations de remplacement](power-supplies.md)
 
 ## NES
 - [NES : installer le Lava RGB 2.0](nes-lava-rgb.md)

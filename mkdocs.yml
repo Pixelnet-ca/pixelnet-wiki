@@ -66,6 +66,7 @@ plugins:
             Consoles: Consoles
             General: Général
             Which scaler?: Quel scaler ?
+            Power supplies: Alimentations
             Glossary: Lexique
             Resources: Ressources
             Other consoles: Autres consoles
@@ -91,6 +92,7 @@ nav:
       - guides/index.md
       - General:
           - Which scaler?: guides/scalers.md
+          - Power supplies: guides/power-supplies.md
       - NES:
           - Lava RGB 2.0: guides/nes-lava-rgb.md
       - Super Nintendo:
